@@ -8,4 +8,25 @@ class mentor
         this.industry = industry; 
         this.position = position; 
     }
+
+    get degree()
+    {
+        return this.degree; 
+    }
+    get school()
+    {
+        return this.school; 
+    }
+    get location()
+    {
+        return this.location;
+    }
+    get industry()
+    {
+        return this.industry;
+    }
+    get position()
+    {
+        return this.position; 
+    }
 }
