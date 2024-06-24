@@ -1,14 +1,17 @@
 class mentor
 {
-    constructor(degree, school, location, industry, position)
+    constructor(degree, school, location, industry, position, skill)
     {
         this.degree = degree; 
         this.school = school;
         this.location = location; 
         this.industry = industry; 
         this.position = position; 
+        this.skill = skill; 
     }
-
+   
+   
+    //Accesors
     get degree()
     {
         return this.degree; 
@@ -28,5 +31,9 @@ class mentor
     get position()
     {
         return this.position; 
+    }
+    get skill()
+    {
+        return this.skill; 
     }
 }
