@@ -8,7 +8,7 @@
     <title>Possible Matches</title>
 </head>
 <body class="flex items-center justify-center min-h-screen" style="background-color: #F4F2EE;">
-  <div class="overlay bg-white rounded-lg shadow-lg w-4/5 max-w-4xl p-8">
+    <div class="overlay bg-white rounded-lg shadow-lg w-4/5 max-w-4xl p-8">
         <header class="header mb-8">
             <div class="header-content flex items-center justify-between">
                 <a href="myMentor.html" class="text-blue-500 hover:underline">Back to Main Page</a>
@@ -17,46 +17,51 @@
             <div class="header-line bg-black h-0.5 mt-4"></div>
         </header>
         <div class="content">
-            <section class="mb-8">
+            <section class="mb-8" id="mentors-section">
                 <h2 class="text-xl font-semibold mb-4">Mentors:</h2>
-                <div class="invitation flex items-center border p-4 rounded mb-4">
-                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
-                    <div class="invitation-info flex-grow">
-                        <p class="name text-lg font-medium">Patrick Star <span class="connection-degree text-sm text-gray-500">1st</span></p>
-                        <p class="match text-gray-600">Patrick is a 90% match</p>
-                    </div>
-                    <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
-                </div>
-                <div class="invitation flex items-center border p-4 rounded mb-4">
-                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
-                    <div class="invitation-info flex-grow">
-                        <p class="name text-lg font-medium">SpongeBob SquarePants <span class="connection-degree text-sm text-gray-500">1st</span></p>
-                        <p class="match text-gray-600">SpongeBob is a 74% match</p>
-                    </div>
-                    <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
-                </div>
             </section>
-            <section>
+            <section id="mentees-section">
                 <h2 class="text-xl font-semibold mb-4">Mentees:</h2>
-                <div class="invitation flex items-center border p-4 rounded mb-4">
-                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
-                    <div class="invitation-info flex-grow">
-                        <p class="name text-lg font-medium">Patrick Star <span class="connection-degree text-sm text-gray-500">1st</span></p>
-                        <p class="match text-gray-600">Patrick is a 100% match</p>
-                    </div>
-                    <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
-                </div>
-                <div class="invitation flex items-center border p-4 rounded mb-4">
-                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
-                    <div class="invitation-info flex-grow">
-                        <p class="name text-lg font-medium">SpongeBob SquarePants <span class="connection-degree text-sm text-gray-500">1st</span></p>
-                        <p class="match text-gray-600">SpongeBob is a 47% match</p>
-                    </div>
-                    <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
-                </div>
             </section>
         </div>
     </div>
+
+    <script>
+        fetch('/matches')
+            .then(response => response.json())
+            .then(data => {
+                const mentorsSection = document.getElementById('mentors-section');
+                const menteesSection = document.getElementById('mentees-section');
+
+                data.menteeMatches.forEach(mentor => {
+                    const mentorDiv = document.createElement('div');
+                    mentorDiv.className = 'invitation flex items-center border p-4 rounded mb-4';
+                    mentorDiv.innerHTML = `
+                        <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
+                        <div class="invitation-info flex-grow">
+                            <p class="name text-lg font-medium">${mentor.name} <span class="connection-degree text-sm text-gray-500">1st</span></p>
+                            <p class="match text-gray-600">${mentor.name} is a ${mentor.matchPercentage}% match</p>
+                        </div>
+                        <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
+                    `;
+                    mentorsSection.appendChild(mentorDiv);
+                });
+
+                data.mentorMatches.forEach(mentee => {
+                    const menteeDiv = document.createElement('div');
+                    menteeDiv.className = 'invitation flex items-center border p-4 rounded mb-4';
+                    menteeDiv.innerHTML = `
+                        <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
+                        <div class="invitation-info flex-grow">
+                            <p class="name text-lg font-medium">${mentee.name} <span class="connection-degree text-sm text-gray-500">1st</span></p>
+                            <p class="match text-gray-600">${mentee.name} is a ${mentee.matchPercentage}% match</p>
+                        </div>
+                        <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
+                    `;
+                    menteesSection.appendChild(menteeDiv);
+                });
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
 </body>
 </html>
-

@@ -18,13 +18,19 @@ app.get('/', (req, res) => {
 });
 
 // Route to serve the main HTML file for mentor profile creation
-app.get('/', (req, res) => {
+app.get('/create-mentor-profile', (req, res) => {
     res.sendFile(path.join(__dirname, 'ui', 'create-Mentor-profile.html'));
 });
 
 // Additional routes for other HTML files if necessary
 app.get('/matches', (req, res) => {
-    res.sendFile(path.join(__dirname, 'ui', 'matches.html'));
+    const menteeMatchesPath = path.join(__dirname, 'matching', 'mentee_to_mentor_matches.json');
+    const mentorMatchesPath = path.join(__dirname, 'matching', 'mentor_to_mentee_matches.json');
+
+    const menteeMatches = JSON.parse(fs.readFileSync(menteeMatchesPath, 'utf8'));
+    const mentorMatches = JSON.parse(fs.readFileSync(mentorMatchesPath, 'utf8'));
+
+    res.json({ menteeMatches: menteeMatches.slice(0, 2), mentorMatches: mentorMatches.slice(0, 2) });
 });
 
 app.get('/myMentee', (req, res) => {
