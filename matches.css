@@ -1,0 +1,360 @@
+.possible-matches {
+    background-color: #f4f2ee;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .possible-matches .overlap-group-wrapper {
+    background-color: #f4f2ee;
+    width: 2425px;
+    height: 1432px;
+  }
+  
+  .possible-matches .overlap-group {
+    position: relative;
+    width: 1512px;
+    height: 1299px;
+    top: 133px;
+    left: 143px;
+    background-color: #ffffff;
+  }
+  
+  .possible-matches .overlap {
+    position: absolute;
+    width: 255px;
+    height: 69px;
+    top: 9px;
+    left: 1220px;
+    background-color: #ffffff;
+    border-radius: 55px;
+    border: 3.5px solid;
+    border-color: #659fd9;
+  }
+  
+  .possible-matches .text-wrapper {
+    position: absolute;
+    top: 16px;
+    left: 24px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .line {
+    position: absolute;
+    width: 1511px;
+    height: 3px;
+    top: 97px;
+    left: 1px;
+  }
+  
+  .possible-matches .div {
+    position: absolute;
+    top: 36px;
+    left: 604px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 34px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .text-wrapper-2 {
+    position: absolute;
+    width: 303px;
+    top: 164px;
+    left: 188px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .text-wrapper-3 {
+    position: absolute;
+    width: 365px;
+    top: 733px;
+    left: 188px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .img {
+    position: absolute;
+    width: 686px;
+    height: 3px;
+    top: 716px;
+    left: 444px;
+    object-fit: cover;
+  }
+  
+  .possible-matches .ellipse {
+    top: 244px;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 84px;
+    background-color: #d9d9d9;
+    border-radius: 62.5px;
+  }
+  
+  .possible-matches .ellipse-2 {
+    top: 448px;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 84px;
+    background-color: #d9d9d9;
+    border-radius: 62.5px;
+  }
+  
+  .possible-matches .patrick-star {
+    position: absolute;
+    width: 303px;
+    top: 272px;
+    left: 240px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .span {
+    color: #000000;
+  }
+  
+  .possible-matches .text-wrapper-4 {
+    color: #8e8787;
+  }
+  
+  .possible-matches .spongebob-square {
+    position: absolute;
+    width: 353px;
+    top: 468px;
+    left: 231px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .p {
+    position: absolute;
+    width: 353px;
+    top: 502px;
+    left: 231px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #8e8888;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .text-wrapper-5 {
+    position: absolute;
+    width: 353px;
+    top: 306px;
+    left: 240px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #8e8888;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .overlap-2 {
+    position: absolute;
+    width: 209px;
+    height: 78px;
+    top: 443px;
+    left: 1219px;
+  }
+  
+  .possible-matches .rectangle {
+    position: absolute;
+    width: 177px;
+    height: 78px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 55px;
+    border: 3.5px solid;
+    border-color: #659fd9;
+  }
+  
+  .possible-matches .text-wrapper-6 {
+    position: absolute;
+    width: 180px;
+    top: 21px;
+    left: 29px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .overlap-3 {
+    position: absolute;
+    width: 217px;
+    height: 78px;
+    top: 263px;
+    left: 1211px;
+  }
+  
+  .possible-matches .text-wrapper-7 {
+    position: absolute;
+    width: 180px;
+    top: 19px;
+    left: 37px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .line-2 {
+    position: absolute;
+    width: 1237px;
+    height: 1px;
+    top: 402px;
+    left: 168px;
+    object-fit: cover;
+  }
+  
+  .possible-matches .line-3 {
+    position: absolute;
+    width: 1237px;
+    height: 1px;
+    top: 608px;
+    left: 168px;
+    object-fit: cover;
+  }
+  
+  .possible-matches .ellipse-3 {
+    top: 807px;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 84px;
+    background-color: #d9d9d9;
+    border-radius: 62.5px;
+  }
+  
+  .possible-matches .ellipse-4 {
+    top: 1011px;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 84px;
+    background-color: #d9d9d9;
+    border-radius: 62.5px;
+  }
+  
+  .possible-matches .patrick-star-st {
+    position: absolute;
+    width: 303px;
+    top: 835px;
+    left: 240px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .spongebob-square-2 {
+    position: absolute;
+    width: 353px;
+    top: 1034px;
+    left: 240px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .text-wrapper-8 {
+    position: absolute;
+    width: 353px;
+    top: 1073px;
+    left: 240px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #8e8888;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .text-wrapper-9 {
+    position: absolute;
+    width: 353px;
+    top: 870px;
+    left: 240px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #8e8888;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .possible-matches .overlap-4 {
+    position: absolute;
+    width: 209px;
+    height: 78px;
+    top: 1006px;
+    left: 1219px;
+  }
+  
+  .possible-matches .overlap-5 {
+    position: absolute;
+    width: 217px;
+    height: 78px;
+    top: 826px;
+    left: 1211px;
+  }
+  
+  .possible-matches .line-4 {
+    position: absolute;
+    width: 1237px;
+    height: 1px;
+    top: 965px;
+    left: 168px;
+    object-fit: cover;
+  }
+  
+  .possible-matches .line-5 {
+    position: absolute;
+    width: 1237px;
+    height: 1px;
+    top: 1171px;
+    left: 168px;
+    object-fit: cover;
+  }
+  

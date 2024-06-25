@@ -1,0 +1,214 @@
+.your-mentors-tab {
+  background-color: #f4f2ee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.your-mentors-tab .overlap-wrapper {
+  background-color: #f4f2ee;
+  width: 2425px;
+  height: 1432px;
+}
+
+.your-mentors-tab .overlap {
+  position: relative;
+  width: 1512px;
+  height: 1299px;
+  top: 133px;
+  left: 143px;
+  background-color: #ffffff;
+}
+
+.your-mentors-tab .overlap-group {
+  position: absolute;
+  width: 255px;
+  height: 69px;
+  top: 9px;
+  left: 1220px;
+  background-color: #ffffff;
+  border-radius: 55px;
+  border: 3.5px solid;
+  border-color: #659fd9;
+}
+
+.your-mentors-tab .text-wrapper {
+  position: absolute;
+  top: 16px;
+  left: 54px;
+  font-family: "Georama-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.your-mentors-tab .line {
+  position: absolute;
+  width: 1511px;
+  height: 3px;
+  top: 97px;
+  left: 1px;
+}
+
+.your-mentors-tab .div {
+  left: 72px;
+  position: absolute;
+  top: 48px;
+  font-family: "Georama-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.your-mentors-tab .text-wrapper-2 {
+  left: 294px;
+  position: absolute;
+  top: 48px;
+  font-family: "Georama-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.your-mentors-tab .request-another {
+  position: absolute;
+  top: 1178px;
+  left: 565px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Georama-SemiBold", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.your-mentors-tab .span {
+  color: #659fd9;
+}
+
+.your-mentors-tab .text-wrapper-3 {
+  color: #000000;
+}
+
+.your-mentors-tab .img {
+  position: absolute;
+  width: 184px;
+  height: 4px;
+  top: 93px;
+  left: 55px;
+}
+
+.your-mentors-tab .ellipse {
+  top: 177px;
+  position: absolute;
+  width: 125px;
+  height: 125px;
+  left: 85px;
+  background-color: #d9d9d9;
+  border-radius: 62.5px;
+}
+
+.your-mentors-tab .ellipse-2 {
+  top: 381px;
+  position: absolute;
+  width: 125px;
+  height: 125px;
+  left: 85px;
+  background-color: #d9d9d9;
+  border-radius: 62.5px;
+}
+
+.your-mentors-tab .sayada-arouna {
+  position: absolute;
+  width: 303px;
+  top: 205px;
+  left: 241px;
+  font-family: "Georama-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.your-mentors-tab .text-wrapper-4 {
+  color: #8e8787;
+}
+
+.your-mentors-tab .spongebob-square {
+  position: absolute;
+  width: 353px;
+  top: 407px;
+  left: 239px;
+  font-family: "Georama-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.your-mentors-tab .group {
+  top: 191px;
+  position: absolute;
+  width: 250px;
+  height: 67px;
+  left: 1220px;
+}
+
+.your-mentors-tab .div-wrapper {
+  position: relative;
+  width: 248px;
+  height: 67px;
+  background-color: #ffffff;
+  border-radius: 55px;
+  border: 3.5px solid;
+  border-color: #659fd9;
+}
+
+.your-mentors-tab .text-wrapper-5 {
+  position: absolute;
+  width: 180px;
+  top: 16px;
+  left: 60px;
+  font-family: "Georama-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.your-mentors-tab .overlap-group-wrapper {
+  top: 376px;
+  position: absolute;
+  width: 250px;
+  height: 67px;
+  left: 1220px;
+}
+
+.your-mentors-tab .line-2 {
+  position: absolute;
+  width: 1237px;
+  height: 1px;
+  top: 317px;
+  left: 216px;
+  object-fit: cover;
+}
+
+.your-mentors-tab .line-3 {
+  position: absolute;
+  width: 1237px;
+  height: 1px;
+  top: 505px;
+  left: 216px;
+  object-fit: cover;
+}
