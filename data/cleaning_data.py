@@ -58,5 +58,24 @@ cleaned_data = clean_data(user_data, jobs_data)
 # Save cleaned data to JSON file
 cleaned_data.to_json('project_data.json', orient='records', indent=4)
 
-# Display cleaned data for verification
-print(cleaned_data.head())
+
+
+import json
+
+# Read project_data.json
+with open('project_data.json', 'r') as file:
+    project_data = json.load(file)
+
+# Separate mentors and mentees
+mentors = [person for person in project_data if person['mentorship_position'] == 'mentor']
+mentees = [person for person in project_data if person['mentorship_position'] == 'mentee']
+
+# Save mentors data to mentors.json
+with open('mentors.json', 'w') as file:
+    json.dump(mentors, file, indent=4)
+    print('Mentors data saved to mentors.json')
+
+# Save mentees data to mentees.json
+with open('mentees.json', 'w') as file:
+    json.dump(mentees, file, indent=4)
+    print('Mentees data saved to mentees.json')
