@@ -1,0 +1,76 @@
+<nav>
+<div class="global-nav__container">
+    <div class="global-nav__searcher">
+      <a href="/" class="with-tooltip" data-tooltip="Ir al home">
+        <figure>
+          <img
+            src="./linkedin-logo.svg"
+            alt="linkedin logo"
+            class="global-nav__logo"
+          />
+        </figure>
+      </a>
+      <div class="searcher-container">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input
+          type="text"
+          class="global-nav__search-bar"
+          placeholder="Search"
+        />
+      </div>
+    </div>
+    <nav>
+      <ul>
+        <li>
+          <a
+            href="#"
+            class="global-nav__item with-tooltip"
+            data-tooltip="Inicio"
+          >
+            <i class="fa-solid fa-house-chimney"></i>
+            <span>Inicio</span>
+          </a>
+        </li>
+        <li>
+          <a
+            href="#"
+            class="global-nav__item tooltip with-tooltip"
+            data-tooltip="Mi red"
+          >
+            <i class="fa-solid fa-user-group"></i>
+            <span>Mi red</span>
+          </a>
+        </li>
+        <li>
+          <a
+            href="#"
+            class="global-nav__item tooltip with-tooltip"
+            data-tooltip="Empleos"
+          >
+            <i class="fa-solid fa-briefcase"></i>
+            <span>Empleos</span>
+          </a>
+        </li>
+        <li>
+          <a
+            href="#"
+            class="global-nav__item tooltip with-tooltip"
+            data-tooltip="Mensajes"
+          >
+            <i class="fa-solid fa-comment-dots"></i>
+            <span>Mensajes</span>
+          </a>
+        </li>
+        <li>
+          <a
+            href="#"
+            class="global-nav__item tooltip with-tooltip"
+            data-tooltip="Notificaciones"
+          >
+            <i class="fa-solid fa-bell"></i>
+            <span>Notificaciones</span>
+          </a>
+        </li>
+      </ul>
+      <div>
+    </nav>
