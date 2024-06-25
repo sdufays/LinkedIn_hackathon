@@ -25,18 +25,31 @@
         .message-button:hover {
             background-color: rgb(10, 95, 193); /* Light blue background on hover */
         }
+
+        .create-button:hover {
+            background-color: rgb(10, 95, 193); /* Light blue background on hover */
+        }
+
+        .mentors-tab:hover {
+            background-color: rgb(79, 138, 206); /* Light blue background on hover */
+        }
+
+        .mentee-tab:hover {
+            background-color: rgb(79, 138, 206); /* Light blue background on hover */
+        }
     </style>
 </head>
 <body>
     <div class="overlay">
         <header class="header">
-            <div class="header-content">
-                <h1>Mentee</h1>
-                <nav class="header-nav">
-                    <a href="#" class = "float-left">Your mentors</a>
-                    <a href="#" class = "float-left"> Your mentees</a>
-                    <a href="#"><button> Create Profile</button></a>
+            <div class="header-content flex items-center space-x-4">
+                <nav class="header-nav flex space-x-4 mb-2">
+                    <a href="myMentors.html" class="mentors-tab text-blue-500 hover:underline">Your mentors</a>
+                    <a href="myMentee.html" class="mentors-tab text-blue-500 hover:underline">Your mentees</a>
                 </nav>
+                <div>
+                    <a href="create-prof.html"><button class="create-button bg-blue-500 text-white px-4 py-2 rounded mb-1 float-right">Create Profile</button></a>
+                </div>
             </div>
             <div class="header-line"></div>
         </header>
@@ -45,8 +58,8 @@
                 <div class="invitation">
                     <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image">
                     <div class="invitation-info">
-                        <p class="name">Bob Smith</p>
-                        <p class="industry">Education
+                        <p class="name">John Doe</p>
+                        <p class="occupation">Software Engineer at Company 
                             <button class="message-button float-right">Message</button>
                         </p>
                     </div>
@@ -54,11 +67,10 @@
                 <div class="invitation">
                     <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image">
                     <div class="invitation-info">
-                        <p class="name">Charlie Brown</p>
-                        <p class="industry">Technology 
+                        <p class="name">Jane Smith</p>
+                        <p class="occupation">Project Manager at Company 
                             <button class="message-button float-right">Message</button>
-                        </p>
-                          </div>
+                        </div>
                 </div>
                 <!-- Add more invitations as needed -->
             </section>
