@@ -5,14 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="make-Mentee-Profile.css">
-    <title>Mentee Profile</title>
+    <link rel="stylesheet" href="makeProfile.css">
+    <title>LinkedIn Mock Header and Create Profile</title>
 </head>
 <body class="bg-gray-100">
     <header class="header">
         <div class="flex justify-between items-center w-full px-6">
             <div class="flex items-center">
                 <img src="img/linkedinlogo.png" alt="LinkedIn Logo" class="logo">
+
                 <div class="flex items-center border border-gray-300 rounded ml-4 p-2 bg-gray-100 h-10">
                     <img src="img/searchicon.jpg" alt="Search Icon" class="ml-2 h-full">
                     <input type="text" placeholder="Search" class="border-none outline-none bg-gray-100 h-full">
@@ -54,8 +55,8 @@
             </nav>
         </div>
     </header>
-    <div class="flex justify-center mt-8">
-        <h1 class="text-2xl font-bold px-4 py-2 rounded">Mentee Profile</h1>
+    <div class="flex justify-center mt-8 ">
+        <h1 class="text-2xl font-bold px-4 py-2 rounded">Mentorship Profile</h1>
     </div>
     <div class="flex items-center justify-center mt-6 mb-8 bg-gray-100">
         <div class="overlay bg-white rounded-lg shadow-lg w-2/5 max-w-6xl p-8 flex flex-col">
@@ -63,15 +64,15 @@
                 <section class="create-profile-demo">
                     <div class="mb-4 flex items-center">
                         <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Bio:</label>
-                        <textarea id="bio" class="w-3/4 p-2 border border-gray-300 rounded" rows="4"></textarea>
+                        <textarea class="w-3/4 p-2 border border-gray-300 rounded" rows="4"></textarea>
                     </div>
                     <div class="mb-4 flex items-center">
                         <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Degree:</label>
-                        <input id="degree" type="text" class="w-3/4 p-2 border border-gray-300 rounded">
+                        <input type="text" class="w-3/4 p-2 border border-gray-300 rounded">
                     </div>
                     <div class="mb-4 flex items-center">
                         <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Time preferences:</label>
-                        <select id="time-preference" class="w-3/4 p-2 border border-gray-300 rounded">
+                        <select class="w-3/4 p-2 border border-gray-300 rounded">
                             <option></option>
                             <option>Weekly</option>
                             <option>Monthly</option>
@@ -80,60 +81,29 @@
                     </div>
                     <div class="mb-4 flex items-center">
                         <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Location:</label>
-                        <input id="location" type="text" class="w-3/4 p-2 border border-gray-300 rounded">
+                        <input type="text" class="w-3/4 p-2 border border-gray-300 rounded">
                     </div>
                     <div class="mb-4 flex items-center">
                         <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">School:</label>
-                        <input id="school" type="text" class="w-3/4 p-2 border border-gray-300 rounded">
+                        <input type="text" class="w-3/4 p-2 border border-gray-300 rounded">
                     </div>
                     <div class="mb-4 flex items-center">
-                        <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Skills (comma-separated):</label>
-                        <input id="skills" type="text" class="w-3/4 p-2 border border-gray-300 rounded">
+                        <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Skills:</label>
+                        <input type="text" class="w-3/4 p-2 border border-gray-300 rounded">
                     </div>
                     <div class="mb-4 flex items-center">
                         <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Select community (if applicable):</label>
-                        <select id="community" class="w-3/4 p-2 border border-gray-300 rounded">
+                        <select class="w-3/4 p-2 border border-gray-300 rounded">
                             <option></option>
                             <option>First-Gen</option>
                             <option>Low-income</option>
                             <option>Woman</option>
                         </select>
                     </div>
-                    <button id="save-profile" class="bg-blue-500 text-white px-4 py-2 rounded">Save Profile</button>
+                    <a href="myMentee.html"><button class="bg-blue-500 text-white px-4 py-2 rounded">Save Profile</button></a>
                 </section>
             </div>
         </div>
     </div>
-
-    <script>
-        document.getElementById('save-profile').addEventListener('click', function() {
-            const capitalizeWords = str => str.replace(/\b\w/g, char => char.toUpperCase());
-            const mentee = {
-                bio: document.getElementById('bio').value,
-                degree: capitalizeWords(document.getElementById('degree').value),
-                time_preference: document.getElementById('time-preference').value,
-                location: document.getElementById('location').value.toUpperCase(),
-                school: capitalizeWords(document.getElementById('school').value),
-                skills: document.getElementById('skills').value.split(',').map(skill => skill.trim().toLowerCase()),
-                underrepresented_group: document.getElementById('community').value
-            };
-
-            fetch('/save-mentee-profile', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(mentee)
-            })
-            .then(response => response.json())
-            .then(data => {
-                console.log('Success:', data);
-                window.location.href = 'myMentee.html'; // Redirect to another page
-            })
-            .catch((error) => {
-                console.error('Error:', error);
-            });
-        });
-    </script>
 </body>
 </html>
