@@ -1,58 +1,62 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="globals.css" />
-    <link rel="stylesheet" href="matches.css" />
-  </head>
-  <body>
-    <div class="possible-matches">
-      <div class="overlap-group-wrapper">
-        <div class="overlap-group">
-          <div class="overlap"><div class="text-wrapper">Back to Main Page</div></div>
-          <img class="line" src="img/line-1.svg" />
-          <div class="div">Possible matches</div>
-          <div class="text-wrapper-2">Mentors:</div>
-          <div class="text-wrapper-3">Mentees:</div>
-          <img class="img" src="img/line-4.svg" />
-          <div class="ellipse"></div>
-          <div class="ellipse-2"></div>
-          <p class="patrick-star"><span class="span">Patrick Star </span> <span class="text-wrapper-4">1st</span></p>
-          <p class="spongebob-square">
-            <span class="span">SpongeBob Square Pants </span> <span class="text-wrapper-4">1st</span>
-          </p>
-          <p class="p">Spongebob is a 90% match</p>
-          <p class="text-wrapper-5">Spongebob is a 74% match</p>
-          <div class="overlap-2">
-            <div class="rectangle"></div>
-            <div class="text-wrapper-6">Message</div>
-          </div>
-          <div class="overlap-3">
-            <div class="rectangle"></div>
-            <div class="text-wrapper-7">Message</div>
-          </div>
-          <img class="line-2" src="img/line-5.svg" />
-          <img class="line-3" src="img/line-6.svg" />
-          <div class="ellipse-3"></div>
-          <div class="ellipse-4"></div>
-          <p class="patrick-star-st"><span class="span">Patrick Star </span> <span class="text-wrapper-4">1st</span></p>
-          <p class="spongebob-square-2">
-            <span class="span">SpongeBob Square Pants </span> <span class="text-wrapper-4">1st</span>
-          </p>
-          <p class="text-wrapper-8">Spongebob is a 100% match</p>
-          <p class="text-wrapper-9">Spongebob is a 47% match</p>
-          <div class="overlap-4">
-            <div class="rectangle"></div>
-            <div class="text-wrapper-6">Message</div>
-          </div>
-          <div class="overlap-5">
-            <div class="rectangle"></div>
-            <div class="text-wrapper-7">Message</div>
-          </div>
-          <img class="line-4" src="img/line-7.svg" />
-          <img class="line-5" src="img/line-8.svg" />
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <title>Possible Matches</title>
+</head>
+<body class="bg-gray-100 flex justify-center items-center h-screen">
+    <div class="overlay bg-white rounded-lg shadow-lg w-4/5 max-w-4xl p-8">
+        <header class="header mb-8">
+            <div class="header-content flex items-center justify-between">
+                <a href="mainPage.html" class="text-blue-500 hover:underline">Back to Main Page</a>
+                <h1 class="text-2xl font-semibold">Possible Matches</h1>
+            </div>
+            <div class="header-line bg-black h-0.5 mt-4"></div>
+        </header>
+        <div class="content">
+            <section class="mb-8">
+                <h2 class="text-xl font-semibold mb-4">Mentors:</h2>
+                <div class="invitation flex items-center border p-4 rounded mb-4">
+                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
+                    <div class="invitation-info flex-grow">
+                        <p class="name text-lg font-medium">Patrick Star <span class="connection-degree text-sm text-gray-500">1st</span></p>
+                        <p class="match text-gray-600">Patrick is a 90% match</p>
+                    </div>
+                    <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
+                </div>
+                <div class="invitation flex items-center border p-4 rounded mb-4">
+                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
+                    <div class="invitation-info flex-grow">
+                        <p class="name text-lg font-medium">SpongeBob SquarePants <span class="connection-degree text-sm text-gray-500">1st</span></p>
+                        <p class="match text-gray-600">SpongeBob is a 74% match</p>
+                    </div>
+                    <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
+                </div>
+            </section>
+            <section>
+                <h2 class="text-xl font-semibold mb-4">Mentees:</h2>
+                <div class="invitation flex items-center border p-4 rounded mb-4">
+                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
+                    <div class="invitation-info flex-grow">
+                        <p class="name text-lg font-medium">Patrick Star <span class="connection-degree text-sm text-gray-500">1st</span></p>
+                        <p class="match text-gray-600">Patrick is a 100% match</p>
+                    </div>
+                    <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
+                </div>
+                <div class="invitation flex items-center border p-4 rounded mb-4">
+                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image rounded-full mr-4">
+                    <div class="invitation-info flex-grow">
+                        <p class="name text-lg font-medium">SpongeBob SquarePants <span class="connection-degree text-sm text-gray-500">1st</span></p>
+                        <p class="match text-gray-600">SpongeBob is a 47% match</p>
+                    </div>
+                    <button class="message-btn bg-blue-500 text-white px-4 py-2 rounded">Message</button>
+                </div>
+            </section>
         </div>
-      </div>
     </div>
-  </body>
+</body>
 </html>
+

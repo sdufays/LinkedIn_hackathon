@@ -1,61 +1,71 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="globals.css" />
-    <link rel="stylesheet" href="makeProfileGuide.css" />
-    <link rel="stylesheet" href="makeProfile.css" />
-  </head>
-  <body>
-    <div class="create-profile-demo">
-      <div class="overlap-group-wrapper">
-        <div class="overlap-group">
-          <div class="overlap"><div class="text-wrapper">Save Profile</div></div>
-          <img class="line" src="img/line-1.svg" />
-          <div class="div">Mentorship Profile</div>
-          <div class="overlap-2">
-            <div class="text-wrapper-2">Bio:</div>
-            <div class="group">
-              <div class="div-wrapper"><p class="p">“I am a full stack developer at...”</p></div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="makeProfile.css">
+    <title>Create Profile</title>
+</head>
+<body class="bg-gray-100 flex justify-center items-center h-screen">
+    <div class="overlay bg-white rounded-lg shadow-lg w-4/5 max-w-2xl p-8">
+        <header class="header mb-8">
+            <div class="header-content flex items-center justify-between">
+                <nav class="header-nav flex space-x-4">
+                    <a href="myMentors.html" class="mentors-tab text-blue-500 hover:underline">Your mentors</a>
+                    <a href="myMentee.html" class="mentors-tab text-blue-500 hover:underline">Your mentees</a>
+                </nav>
+                <a href="makeProfile.html">
+                    <button class="create-button bg-blue-500 text-white px-4 py-2 rounded">Create Profile</button>
+                </a>
             </div>
-            <div class="overlap-3">
-              <div class="group-2"></div>
-              <div class="text-wrapper-3">Degree:</div>
-            </div>
-            <div class="overlap-4">
-              <div class="group-3"></div>
-              <div class="text-wrapper-4">TIme preferences:</div>
-              <div class="text-wrapper-5">Location:</div>
-              <img class="img" src="img/line-4.svg" />
-              <div class="dropdown-form-yes">
-                <div class="frame">
-                  <div class="dropdown-form"><div class="text-wrapper-6">Weekly</div></div>
-                  <div class="dropdown-form"><div class="text-wrapper-6">Monthly</div></div>
-                  <div class="dropdown-form"><div class="text-wrapper-6">Quarterly</div></div>
+            <div class="header-line bg-black h-0.5 mt-4"></div>
+        </header>
+        <div class="content">
+            <section class="create-profile-demo">
+                <div class="mb-4">
+                    <h2 class="text-2xl font-semibold mb-4">Mentorship Profile</h2>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2">Bio:</label>
+                        <textarea class="w-full p-2 border border-gray-300 rounded" rows="4">I am a full stack developer at...</textarea>
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2">Degree:</label>
+                        <input type="text" class="w-full p-2 border border-gray-300 rounded" />
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2">Time preferences:</label>
+                        <select class="w-full p-2 border border-gray-300 rounded">
+                            <option>Weekly</option>
+                            <option>Monthly</option>
+                            <option>Quarterly</option>
+                        </select>
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2">Location:</label>
+                        <input type="text" class="w-full p-2 border border-gray-300 rounded" />
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2">School:</label>
+                        <input type="text" class="w-full p-2 border border-gray-300 rounded" />
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2">Skills:</label>
+                        <input type="text" class="w-full p-2 border border-gray-300 rounded" />
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2">Select community (if applicable):</label>
+                        <select class="w-full p-2 border border-gray-300 rounded">
+                            <option>First-Gen</option>
+                            <option>Low-income</option>
+                            <option>Woman</option>
+                        </select>
+                    </div>
                 </div>
-              </div>
-            </div>
-          </div>
-          <div class="overlap-5">
-            <div class="group-4"></div>
-            <div class="text-wrapper-3">School:</div>
-          </div>
-          <div class="overlap-6">
-            <div class="group-4"></div>
-            <div class="text-wrapper-3">Skills:</div>
-          </div>
-          <div class="overlap-7">
-            <div class="text-wrapper-7">Select community (if applicable):</div>
-            <div class="frame-wrapper">
-              <div class="frame">
-                <div class="dropdown-form"><div class="text-wrapper-6">First-Gen</div></div>
-                <div class="dropdown-form"><div class="text-wrapper-6">Low-income</div></div>
-                <div class="dropdown-form"><div class="text-wrapper-6">Woman</div></div>
-              </div>
-            </div>
-          </div>
+                <button class="bg-blue-500 text-white px-4 py-2 rounded">Save Profile</button>
+            </section>
         </div>
-      </div>
     </div>
-  </body>
+</body>
 </html>
