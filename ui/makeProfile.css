@@ -16,17 +16,7 @@ body, html {
 }
 
 .header .logo {
-  display: flex;
-  align-items: center;
-}
-
-.header .logo img {
   height: 30px;
-}
-
-.header nav {
-  display: flex;
-  align-items: center;
 }
 
 .header nav a {
@@ -36,6 +26,7 @@ body, html {
   margin-left: 24px;
   display: flex;
   align-items: center;
+  flex-direction: column;
   transition: color 0.3s;
 }
 
@@ -44,8 +35,8 @@ body, html {
 }
 
 .header nav a img {
-  margin-right: 8px;
   height: 24px;
+  margin-bottom: 4px;
 }
 
 .header .search {
@@ -60,6 +51,7 @@ body, html {
   border: none;
   outline: none;
   padding: 4px;
+  background-color: #f4f2ee;
 }
 
 .header .search img {
@@ -91,12 +83,12 @@ body, html {
   margin-bottom: 3rem;
 }
 
-.mt-4 {
-  margin-top: 1rem;
+.mt-2 {
+  margin-top: 0.5rem;
 }
 
-.mb-4 {
-  margin-bottom: 1rem;
+.mb-2 {
+  margin-bottom: 0.5rem;
 }
 
 .bg-gray-100 {
