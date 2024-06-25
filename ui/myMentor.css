@@ -1,313 +1,296 @@
-/* Global Styles */
-body, html {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-  font-family: 'Roboto', sans-serif;
-  background-color: #f3f3f3;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="myMentee.css">
+    <title>LinkedIn My Network</title>
+    <style>
+        .message-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: black;
+            background-color: white;
+            border: 2px solid rgb(10, 102, 205);
+            border-radius: 28px; /* This makes the corners rounded */
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
 
-/* Define a new class for the active tab */
-.active-tab {
-  color: blue;
-  font-weight: bold; /* Optional: Make the active tab bold */
-}
+        .message-button:hover {
+            background-color: rgb(10, 95, 193); /* Light blue background on hover */
+        }
 
+        .create-button:hover {
+            background-color: rgb(10, 95, 193); /* Light blue background on hover */
+        }
 
-/* Overlay */
-.overlay {
-  background-color: white;
-  width: 90%;
-  max-width: 1200px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  position: relative;
-  top: -100px; /* Adjust this value to move the overlay up or down */
-}
+        .header {
+            background-color: #ffffff;
+            border-bottom: 1px solid #e6e9ec;
+            box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
+            padding: 0 24px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            height: auto;
+            width: 100%;
+        }
 
-/* Header */
-.header {
-  background-color: white;
-  padding: 20px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  margin-top: -40px; /* Moves the header further up within the overlay */
-}
+        .header .logo {
+            height: 30px;
+        }
 
-.header-content {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+        .header nav a {
+            text-decoration: none;
+            color: #0073b1;
+            font-weight: 500;
+            margin-left: 24px;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            transition: color 0.3s;
+        }
 
-.header-content h1 {
-  margin: 0;
-  font-weight: 500;
-}
+        .header nav a:hover {
+            color: #004182;
+        }
 
-.header-nav a {
-  margin-left: 20px;
-  color: black;
-  text-decoration: none;
-  font-weight: 500;
-}
+        .header nav a img {
+            height: 24px;
+            margin-bottom: 4px;
+        }
 
-.header-line {
-  height: 2px;
-  background-color: black;
-  margin-top: 10px;
-}
+        .header .search {
+            display: flex;
+            align-items: center;
+            border: 1px solid #e6e9ec;
+            border-radius: 4px;
+            padding: 4px 8px;
+        }
 
-/* Content */
-.content {
-  padding: 20px;
-}
+        .header .search input {
+            border: none;
+            outline: none;
+            padding: 4px;
+            background-color: #f4f2ee;
+        }
 
-.invitations h2 {
-  font-weight: 500;
-}
+        .header .search img {
+            height: 20px;
+            margin-left: 8px;
+        }
 
-.invitation {
-  display: flex;
-  align-items: center;
-  margin-top: 20px;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-}
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            padding: 8px 0;
+        }
 
-.profile-image {
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  margin-right: 20px;
-}
+        .header-line {
+            width: 100%;
+            height: 1px;
+            background-color: #e6e9ec;
+            margin-top: 8px;
+        }
 
-.invitation-info {
-  flex: 1;
-}
+        .overlay {
+            background-color: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            width: 80%;
+            max-width: 72rem;
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+        }
 
-.invitation-info .name {
-  font-weight: 500;
-  margin: 0;
-}
+        .content {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
 
-.invitation-info .industry{
-  color: #666;
-  margin: 5px 0;
-}
+        .text-gray-700 {
+            color: #4a5568;
+        }
 
-.actions {
-  display: flex;
-}
+        .text-sm {
+            font-size: 0.875rem;
+        }
 
-.message-btn {
-  background-color: white; ;
-  color: #0a66c2;
-  border-radius: 29%;
-  border-color: #0a66c2;
-  padding: 6px 16px;
-}
+        .font-bold {
+            font-weight: 700;
+        }
 
-.message-btn:hover {
-  background-color: #0a66c2;
-  border-width: px;
-}
+        .p-2 {
+            padding: 0.5rem;
+        }
 
-.message-button {
-  padding: 10px 20px;
-  font-size: 16px;
-  color: black;
-  background-color: white;
-  border: 2px solid rgb(10, 102, 205);
-  border-radius: 28px; /* This makes the corners rounded */
-  cursor: pointer;
-  transition: background-color 0.3s;
-}
+        .border {
+            border-width: 1px;
+        }
 
-.message-button:hover {
-  background-color: rgb(10, 95, 193); /* Light blue background on hover */
-}
+        .border-gray-300 {
+            border-color: #e2e8f0;
+        }
 
-.create-button:hover {
-  background-color: rgb(10, 95, 193); /* Light blue background on hover */
-}
+        .rounded {
+            border-radius: 0.25rem;
+        }
 
-.header {
-  background-color: #ffffff;
-  border-bottom: 1px solid #e6e9ec;
-  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
-  padding: 0 24px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  height: auto;
-  width: 100%;
-}
+        .bg-blue-500 {
+            background-color: #0073b1;
+        }
 
-.header .logo {
-  height: 30px;
-}
+        .text-white {
+            color: white;
+        }
 
-.header nav a {
-  text-decoration: none;
-  /*color: #0073b1;*/
-  font-weight: 500;
-  margin-left: 24px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  transition: color 0.3s;
-}
+        .px-4 {
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
 
-/*.header nav a:hover {
-  color: #004182;
-} */
+        .py-2 {
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+        }
 
-.header nav a img {
-  height: 24px;
-  margin-bottom: 4px;
-}
+        .bg-gray-100 {
+            background-color: #f4f2ee;
+        }
 
-.header .search {
-  display: flex;
-  align-items: center;
-  border: 1px solid #e6e9ec;
-  border-radius: 4px;
-  padding: 4px 8px;
-}
+        .float-right {
+            float: right;
+        }
 
-.header .search input {
-  border: none;
-  outline: none;
-  padding: 4px;
-  background-color: #f4f2ee;
-}
+        .flex {
+            display: flex;
+        }
 
-.header .search img {
-  height: 20px;
-  margin-left: 8px;
-}
+        .items-center {
+            align-items: center;
+        }
 
-.header-content {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  padding: 8px 0;
-}
+        .justify-center {
+            justify-content: center;
+        }
 
-.header-line {
-  width: 100%;
-  height: 1px;
-  background-color: #e6e9ec;
-  margin-top: 8px;
-}
+        .min-h-screen {
+            min-height: 100vh;
+        }
 
-.overlay {
-  background-color: white;
-  border-radius: 0.5rem;
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-  width: 80%;
-  max-width: 72rem;
-  padding: 2rem;
-  display: flex;
-  flex-direction: column;
-}
+        .mt-2 {
+            margin-top: 0.5rem;
+        }
 
-.content {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}
+        .mb-2 {
+            margin-bottom: 0.5rem;
+        }
 
-.text-gray-700 {
-  color: #4a5568;
-}
+        .rounded {
+            border-radius: 0.25rem;
+        }
 
-.text-sm {
-  font-size: 0.875rem;
-}
+        .bg-blue-500:hover {
+            background-color: #005582;
+        }
+    </style>
+</head>
 
-.font-bold {
-  font-weight: 700;
-}
+<body class="flex items-center justify-center min-h-screen bg-gray-100 mt-60">
+    <div class="overlay mt-30">
+        <header class="header">
+            <div class="flex justify-between items-center w-full px-6">
+                <div class="flex items-center">
+                    <img src="img/linkedinlogo.png" alt="LinkedIn Logo" class="logo">
+                    <div class="flex items-center border border-gray-300 rounded ml-4 p-2 bg-gray-100 h-10">
+                        <img src="img/searchicon.jpg" alt="Search Icon" class="ml-2 h-full">
+                        <input type="text" placeholder="Search" class="border-none outline-none bg-gray-100 h-full">
+                    </div>
+                </div>
+                <nav class="flex space-x-4 items-center">
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/homeicon.jpg" alt="Home Icon">
+                        <span>Home</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/networkicon.jpg" alt="My Network Icon">
+                        <span>My Network</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/jobsicon.jpg" alt="Jobs Icon">
+                        <span>Jobs</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/messageicon.jpg" alt="Messaging Icon">
+                        <span>Messaging</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/notifsicon.jpg" alt="Notifications Icon">
+                        <span>Notifications</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/person.jpg" alt="Me Icon">
+                        <span>Me</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/businessicon.jpg" alt="For Business Icon">
+                        <span>For Business</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/learningicon.jpg" alt="Learning Icon">
+                        <span>Learning</span>
+                    </a>
+                </nav>
+            </div>
+            <div class="header-content flex items-center space-x-4 mt-40">
+                <nav class="header-nav flex space-x-4 mb-2">
+                    <a href="myMentor.html" class="mentors-tab hover:underline">Your mentors</a>
+                    <a href="myMentee.html" class="mentors-tab hover:underline">Your mentees</a>
+                </nav>
+                <div>
+                    <a href="create-Mentor-Profile.html"><button class="create-button bg-blue-500 text-white px-4 py-2 rounded float-right">Create Mentee Profile</button></a>
+                </div>
 
-.p-2 {
-  padding: 0.5rem;
-}
-
-.border {
-  border-width: 1px;
-}
-
-.border-gray-300 {
-  border-color: #e2e8f0;
-}
-
-.rounded {
-  border-radius: 0.25rem;
-}
-
-.bg-blue-500 {
-  background-color: #0073b1;
-}
-
-.text-white {
-  color: white;
-}
-
-.px-4 {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-.py-2 {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
-
-.bg-gray-100 {
-  background-color: #f4f2ee;
-}
-
-.float-right {
-  float: right;
-}
-
-.flex {
-  display: flex;
-}
-
-.items-center {
-  align-items: center;
-}
-
-.justify-center {
-  justify-content: center;
-}
-
-.min-h-screen {
-  min-height: 100vh;
-}
-
-.mt-2 {
-  margin-top: 0.5rem;
-}
-
-.mb-2 {
-  margin-bottom: 0.5rem;
-}
-
-.rounded {
-  border-radius: 0.25rem;
-}
-
-.bg-blue-500:hover {
-  background-color: #005582;
-}
+            </div>
+            <div class="header-line"></div>
+        </header>
+        <div class="content">
+            <section class="invitations">
+                <div class="invitation">
+                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image">
+                    <div class="invitation-info">
+                        <p class="name">Bob Smith</p>
+                        <p class="industry">Education
+                            <button class="message-button float-right">Message</button>
+                        </p>
+                    </div>
+                </div>
+                <div class="invitation">
+                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image">
+                    <div class="invitation-info">
+                        <p class="name">Jane Smith</p>
+                        <p class="occupation">Project Manager at Company 
+                            <button class="message-button float-right">Message</button>
+                        </p>
+                    </div>
+                </div>
+                <!-- Add more invitations as needed -->
+            </section>
+        </div>
+        
+        <div class="text-center mt-4 text-xl">
+            <a href="matches.html" class="text-blue-500 hover:underline font-bold">Search</a> <span class="text-black"> for other mentees</span>
+        </div>
+      
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
