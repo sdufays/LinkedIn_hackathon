@@ -90,21 +90,13 @@ body, html {
   margin: 0;
 }
 
-.invitation-info .occupation {
+.invitation-info .industry{
   color: #666;
   margin: 5px 0;
 }
 
 .actions {
   display: flex;
-}
-
-.accept-btn, .ignore-btn {
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  margin-right: 10px;
 }
 
 .message-btn {
@@ -120,3 +112,4 @@ body, html {
   background-color: #0a66c2;
   border-width: px;
 }
+
