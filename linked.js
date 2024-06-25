@@ -42,6 +42,20 @@ app.post('/save-mentee-profile', (req, res) => {
     });
 });
 
+// Route to clear/reset the temporary matching data
+app.post('/reset-matching-data', (req, res) => {
+    const matchesPath = path.join(__dirname, 'matching', 'mentee_to_mentor_matches.json');
+    fs.writeFile(matchesPath, JSON.stringify([], null, 4), 'utf8', err => {
+        if (err) {
+            console.error('Error resetting matches.json:', err);
+            res.status(500).json({ error: 'Failed to reset matching data' });
+            return;
+        }
+        console.log('Matching data reset successfully');
+        res.json({ message: 'Matching data reset successfully' });
+    });
+});
+
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
 });
