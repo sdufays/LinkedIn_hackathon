@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="makeProfile.css">
+    <title>LinkedIn Mock Header and Create Profile</title>
+</head>
+<body class="bg-gray-100">
+    <header class="header">
+        <div class="flex justify-between items-center w-full px-6">
+            <div class="flex items-center">
+                <img src="img/linkedinlogo.png" alt="LinkedIn Logo" class="logo">
+
+                <div class="flex items-center border border-gray-300 rounded ml-4 p-2 bg-gray-100 h-10">
+                    <img src="img/searchicon.jpg" alt="Search Icon" class="ml-2 h-full">
+                    <input type="text" placeholder="Search" class="border-none outline-none bg-gray-100 h-full">
+                </div>
+            </div>
+            <nav class="flex space-x-4 items-center">
+                <a href="#" class="flex flex-col items-center">
+                    <img src="img/homeicon.jpg" alt="Home Icon">
+                    <span>Home</span>
+                </a>
+                <a href="#" class="flex flex-col items-center">
+                    <img src="img/networkicon.jpg" alt="My Network Icon">
+                    <span>My Network</span>
+                </a>
+                <a href="#" class="flex flex-col items-center">
+                    <img src="img/jobsicon.jpg" alt="Jobs Icon">
+                    <span>Jobs</span>
+                </a>
+                <a href="#" class="flex flex-col items-center">
+                    <img src="img/messageicon.jpg" alt="Messaging Icon">
+                    <span>Messaging</span>
+                </a>
+                <a href="#" class="flex flex-col items-center">
+                    <img src="img/notifsicon.jpg" alt="Notifications Icon">
+                    <span>Notifications</span>
+                </a>
+                <a href="#" class="flex flex-col items-center">
+                    <img src="img/person.jpg" alt="Me Icon">
+                    <span>Me</span>
+                </a>
+                <a href="#" class="flex flex-col items-center">
+                    <img src="img/businessicon.jpg" alt="For Business Icon">
+                    <span>For Business</span>
+                </a>
+                <a href="#" class="flex flex-col items-center">
+                    <img src="img/learningicon.jpg" alt="Learning Icon">
+                    <span>Learning</span>
+                </a>
+            </nav>
+        </div>
+    </header>
+    <div class="flex justify-center mt-8 ">
+        <h1 class="text-2xl font-bold px-4 py-2 rounded">Mentorship Profile</h1>
+    </div>
+    <div class="flex items-center justify-center mt-6 mb-8 bg-gray-100">
+        <div class="overlay bg-white rounded-lg shadow-lg w-2/5 max-w-6xl p-8 flex flex-col">
+            <div class="content flex flex-col w-full">
+                <section class="create-profile-demo">
+                    <div class="mb-4 flex items-center">
+                        <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Bio:</label>
+                        <textarea class="w-3/4 p-2 border border-gray-300 rounded" rows="4"></textarea>
+                    </div>
+                    <div class="mb-4 flex items-center">
+                        <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Degree:</label>
+                        <input type="text" class="w-3/4 p-2 border border-gray-300 rounded">
+                    </div>
+                    <div class="mb-4 flex items-center">
+                        <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Time preferences:</label>
+                        <select class="w-3/4 p-2 border border-gray-300 rounded">
+                            <option></option>
+                            <option>Weekly</option>
+                            <option>Monthly</option>
+                            <option>Quarterly</option>
+                        </select>
+                    </div>
+                    <div class="mb-4 flex items-center">
+                        <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Location:</label>
+                        <input type="text" class="w-3/4 p-2 border border-gray-300 rounded">
+                    </div>
+                    <div class="mb-4 flex items-center">
+                        <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">School:</label>
+                        <input type="text" class="w-3/4 p-2 border border-gray-300 rounded">
+                    </div>
+                    <div class="mb-4 flex items-center">
+                        <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Skills:</label>
+                        <input type="text" class="w-3/4 p-2 border border-gray-300 rounded">
+                    </div>
+                    <div class="mb-4 flex items-center">
+                        <label class="block text-gray-700 text-sm font-bold mb-2 w-1/4">Select community (if applicable):</label>
+                        <select class="w-3/4 p-2 border border-gray-300 rounded">
+                            <option></option>
+                            <option>First-Gen</option>
+                            <option>Low-income</option>
+                            <option>Woman</option>
+                        </select>
+                    </div>
+                    <a href="myMentee.html"><button class="bg-blue-500 text-white px-4 py-2 rounded">Save Profile</button></a>
+                </section>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

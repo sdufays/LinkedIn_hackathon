@@ -11,6 +11,13 @@ body, html {
   align-items: center;
 }
 
+/* Define a new class for the active tab */
+.active-tab {
+  color: blue;
+  font-weight: bold; /* Optional: Make the active tab bold */
+}
+
+
 /* Overlay */
 .overlay {
   background-color: white;
@@ -149,7 +156,7 @@ body, html {
 
 .header nav a {
   text-decoration: none;
-  color: #0073b1;
+  /*color: #0073b1;*/
   font-weight: 500;
   margin-left: 24px;
   display: flex;
@@ -158,9 +165,9 @@ body, html {
   transition: color 0.3s;
 }
 
-.header nav a:hover {
+/*.header nav a:hover {
   color: #004182;
-}
+} */
 
 .header nav a img {
   height: 24px;
