@@ -4,8 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="myMentee.css">
     <title>LinkedIn My Network</title>
+
+
+    <title>Rounded Rectangle Button</title>
+    <style>
+        .message-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: black;
+            background-color: white;
+            border: 2px solid rgb(10, 102, 205);
+            border-radius: 28px; /* This makes the corners rounded */
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .message-button:hover {
+            background-color: rgb(10, 95, 193); /* Light blue background on hover */
+        }
+    </style>
 </head>
 <body>
     <div class="overlay">
@@ -27,7 +47,7 @@
                     <div class="invitation-info">
                         <p class="name">John Doe</p>
                         <p class="occupation">Software Engineer at Company 
-                            <button class="message-btn">Message</button> 
+                            <button class="justify-center px-14 py-7 bg-white border-4 border-blue-400 border-solid rounded-[55px] max-md:px-5">Message</button> 
                         </p>
                     </div>
                 </div>
@@ -36,8 +56,8 @@
                     <div class="invitation-info">
                         <p class="name">Jane Smith</p>
                         <p class="occupation">Project Manager at Company 
-                            <button class="message-btn">Message</button> </p>
-                    </div>
+                            <button class="message-button float-right">Message</button>
+                        </div>
                 </div>
                 <!-- Add more invitations as needed -->
             </section>
