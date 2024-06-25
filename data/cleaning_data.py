@@ -1,4 +1,6 @@
 import pandas as pd
+import json
+import random
 
 # Load JSON data
 user_data = pd.read_json('user_data.json')
@@ -24,7 +26,9 @@ def clean_data(user_data, jobs_data):
     user_data['industries'] = ''
     user_data['highest_level'] = ''
     user_data['mentorship_position'] = ''
-    
+    user_data['time_preference'] = ''
+    user_data['underrepresented_group'] = ''
+
     # Extract industries and highest job level from job data
     job_dict = jobs_data.set_index('id').to_dict(orient='index')
     
@@ -48,6 +52,15 @@ def clean_data(user_data, jobs_data):
     user_data['industries'], user_data['highest_level'] = zip(*user_data['job_history'].apply(extract_job_info))
     user_data['mentorship_position'] = user_data['highest_level'].apply(determine_mentorship_position)
     
+    # Assign random time preferences
+    time_preferences = ['weekly', 'monthly', 'quarterly']
+    user_data['time_preference'] = user_data.apply(lambda _: random.choice(time_preferences), axis=1)
+
+    # Assign 20% to random underrepresented groups
+    underrepresented_groups = ['bipoc', 'women', 'first-gen', 'low-income', 'lgbtq+']
+    group_sample = user_data.sample(frac=0.2).index
+    user_data.loc[group_sample, 'underrepresented_group'] = user_data.loc[group_sample].apply(lambda _: random.choice(underrepresented_groups), axis=1)
+    
     user_data = user_data.drop(columns=['job_history'])
 
     return user_data
@@ -57,10 +70,6 @@ cleaned_data = clean_data(user_data, jobs_data)
 
 # Save cleaned data to JSON file
 cleaned_data.to_json('project_data.json', orient='records', indent=4)
-
-
-
-import json
 
 # Read project_data.json
 with open('project_data.json', 'r') as file:

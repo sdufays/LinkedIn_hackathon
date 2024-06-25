@@ -22,7 +22,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5282",
@@ -49,7 +51,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5298",
@@ -77,7 +81,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4781",
@@ -105,7 +111,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3759",
@@ -131,7 +139,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_5736",
@@ -158,7 +168,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8723",
@@ -184,7 +196,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9200",
@@ -208,7 +222,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_7684",
@@ -233,7 +249,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9030",
@@ -259,7 +277,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6109",
@@ -287,7 +307,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7582",
@@ -311,7 +333,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_4135",
@@ -339,7 +363,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1773",
@@ -368,7 +394,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7308",
@@ -393,7 +421,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_3241",
@@ -423,7 +453,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7580",
@@ -456,7 +488,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_2017",
@@ -483,7 +517,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_1935",
@@ -510,7 +546,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_7566",
@@ -540,7 +578,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_5417",
@@ -570,7 +610,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3220",
@@ -596,7 +638,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1721",
@@ -621,7 +665,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7100",
@@ -649,7 +695,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4673",
@@ -674,7 +722,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3836",
@@ -701,7 +751,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1456",
@@ -726,7 +778,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_5436",
@@ -752,7 +806,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5792",
@@ -777,7 +833,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3474",
@@ -803,7 +861,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5262",
@@ -827,7 +887,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1725",
@@ -855,7 +917,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4532",
@@ -881,7 +945,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3548",
@@ -908,7 +974,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3870",
@@ -933,7 +1001,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7635",
@@ -959,7 +1029,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2546",
@@ -985,7 +1057,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_3785",
@@ -1009,7 +1083,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5555",
@@ -1039,7 +1115,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5834",
@@ -1065,7 +1143,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_8421",
@@ -1092,7 +1172,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5779",
@@ -1124,7 +1206,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3985",
@@ -1153,7 +1237,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4818",
@@ -1180,7 +1266,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1929",
@@ -1206,7 +1294,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_3202",
@@ -1233,7 +1323,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8754",
@@ -1260,7 +1352,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5234",
@@ -1287,7 +1381,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2016",
@@ -1314,7 +1410,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5713",
@@ -1340,7 +1438,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5098",
@@ -1365,7 +1465,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1249",
@@ -1392,7 +1494,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3968",
@@ -1418,7 +1522,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7645",
@@ -1445,7 +1551,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6834",
@@ -1476,7 +1584,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4542",
@@ -1500,7 +1610,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3581",
@@ -1529,7 +1641,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8153",
@@ -1556,7 +1670,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7352",
@@ -1583,7 +1699,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5952",
@@ -1610,7 +1728,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_2271",
@@ -1634,7 +1754,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5313",
@@ -1663,7 +1785,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1686",
@@ -1689,7 +1813,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6453",
@@ -1715,7 +1841,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3118",
@@ -1742,7 +1870,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5771",
@@ -1770,7 +1900,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9513",
@@ -1796,7 +1928,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_8579",
@@ -1822,7 +1956,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9057",
@@ -1848,7 +1984,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_4193",
@@ -1878,7 +2016,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_2134",
@@ -1903,7 +2043,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8274",
@@ -1933,7 +2075,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2060",
@@ -1958,7 +2102,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6176",
@@ -1985,7 +2131,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_9202",
@@ -2009,7 +2157,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4216",
@@ -2034,7 +2184,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_6817",
@@ -2060,7 +2212,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1107",
@@ -2086,7 +2240,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3887",
@@ -2112,7 +2268,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_4157",
@@ -2138,7 +2296,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5869",
@@ -2164,7 +2324,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_8300",
@@ -2191,7 +2353,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4027",
@@ -2219,7 +2383,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_8546",
@@ -2250,7 +2416,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1598",
@@ -2275,7 +2443,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_9662",
@@ -2302,7 +2472,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8836",
@@ -2328,7 +2500,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7283",
@@ -2355,7 +2529,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3657",
@@ -2383,7 +2559,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1386",
@@ -2414,7 +2592,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2434",
@@ -2440,7 +2620,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3620",
@@ -2466,7 +2648,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_4520",
@@ -2498,7 +2682,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5586",
@@ -2524,7 +2710,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8176",
@@ -2556,7 +2744,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3169",
@@ -2583,7 +2773,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4920",
@@ -2611,7 +2803,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_3507",
@@ -2636,7 +2830,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5221",
@@ -2660,7 +2856,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7633",
@@ -2688,7 +2886,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5851",
@@ -2714,7 +2914,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7375",
@@ -2742,7 +2944,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3479",
@@ -2769,7 +2973,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4739",
@@ -2794,7 +3000,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5829",
@@ -2824,7 +3032,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_9933",
@@ -2848,7 +3058,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2573",
@@ -2875,7 +3087,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_3573",
@@ -2903,7 +3117,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1501",
@@ -2929,7 +3145,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1465",
@@ -2961,7 +3179,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6393",
@@ -2989,7 +3209,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5307",
@@ -3014,7 +3236,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5456",
@@ -3038,7 +3262,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8330",
@@ -3064,7 +3290,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_8568",
@@ -3095,7 +3323,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_8422",
@@ -3125,7 +3355,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9574",
@@ -3151,7 +3383,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9262",
@@ -3181,7 +3415,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6967",
@@ -3210,7 +3446,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_2609",
@@ -3236,7 +3474,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_7858",
@@ -3266,7 +3506,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_6043",
@@ -3295,7 +3537,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3074",
@@ -3323,7 +3567,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6408",
@@ -3352,7 +3598,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4029",
@@ -3377,7 +3625,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2984",
@@ -3405,7 +3655,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3487",
@@ -3436,7 +3688,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2190",
@@ -3460,7 +3714,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6712",
@@ -3488,7 +3744,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6635",
@@ -3514,7 +3772,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4403",
@@ -3544,7 +3804,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3908",
@@ -3569,7 +3831,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4290",
@@ -3597,7 +3861,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3940",
@@ -3625,7 +3891,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3412",
@@ -3650,7 +3918,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_7910",
@@ -3679,7 +3949,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3469",
@@ -3705,7 +3977,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2679",
@@ -3737,7 +4011,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2468",
@@ -3763,7 +4039,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2141",
@@ -3788,7 +4066,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1546",
@@ -3814,7 +4094,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3227",
@@ -3840,7 +4122,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2087",
@@ -3867,7 +4151,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5222",
@@ -3897,7 +4183,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4567",
@@ -3923,7 +4211,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_7738",
@@ -3950,7 +4240,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6007",
@@ -3975,7 +4267,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7160",
@@ -4002,7 +4296,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6641",
@@ -4032,7 +4328,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7601",
@@ -4056,7 +4354,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6797",
@@ -4083,7 +4383,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_3072",
@@ -4113,7 +4415,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3536",
@@ -4138,7 +4442,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9747",
@@ -4163,7 +4469,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_9469",
@@ -4193,7 +4501,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9031",
@@ -4218,7 +4528,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2819",
@@ -4244,7 +4556,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3436",
@@ -4269,7 +4583,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_8895",
@@ -4301,7 +4617,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_2511",
@@ -4328,7 +4646,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2817",
@@ -4354,7 +4674,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3969",
@@ -4381,7 +4703,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5530",
@@ -4408,7 +4732,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5775",
@@ -4433,7 +4759,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_3840",
@@ -4462,7 +4790,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8851",
@@ -4488,7 +4818,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8726",
@@ -4514,7 +4846,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1468",
@@ -4540,7 +4874,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_2044",
@@ -4568,7 +4904,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6980",
@@ -4597,7 +4935,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7555",
@@ -4623,7 +4963,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5918",
@@ -4649,7 +4991,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_1263",
@@ -4673,7 +5017,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_2473",
@@ -4701,7 +5047,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1914",
@@ -4728,7 +5076,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4533",
@@ -4756,7 +5106,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_4209",
@@ -4782,7 +5134,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9223",
@@ -4814,7 +5168,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1896",
@@ -4842,7 +5198,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_3674",
@@ -4867,7 +5225,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9096",
@@ -4891,7 +5251,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1151",
@@ -4919,7 +5281,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3598",
@@ -4947,7 +5311,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9091",
@@ -4971,7 +5337,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9470",
@@ -4997,7 +5365,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_4598",
@@ -5021,7 +5391,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_1826",
@@ -5046,7 +5418,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5825",
@@ -5076,7 +5450,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1978",
@@ -5102,7 +5478,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2758",
@@ -5129,7 +5507,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_4132",
@@ -5158,7 +5538,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6663",
@@ -5186,7 +5568,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7594",
@@ -5221,7 +5605,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7188",
@@ -5248,7 +5634,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5934",
@@ -5280,7 +5668,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5063",
@@ -5308,7 +5698,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2563",
@@ -5334,7 +5726,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_6243",
@@ -5364,7 +5758,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1148",
@@ -5392,7 +5788,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4147",
@@ -5417,7 +5815,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4101",
@@ -5445,7 +5845,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5577",
@@ -5473,7 +5875,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4848",
@@ -5498,7 +5902,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1589",
@@ -5525,7 +5931,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6064",
@@ -5552,7 +5960,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6090",
@@ -5579,7 +5989,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5696",
@@ -5607,7 +6019,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7938",
@@ -5637,7 +6051,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_3691",
@@ -5662,7 +6078,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8596",
@@ -5688,7 +6106,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3646",
@@ -5715,7 +6135,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6766",
@@ -5746,7 +6168,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9049",
@@ -5772,7 +6196,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6280",
@@ -5798,7 +6224,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2461",
@@ -5827,7 +6255,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_3563",
@@ -5852,7 +6282,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3056",
@@ -5878,7 +6310,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7141",
@@ -5905,7 +6339,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4780",
@@ -5931,7 +6367,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9157",
@@ -5956,7 +6394,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_6402",
@@ -5982,7 +6422,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8497",
@@ -6008,7 +6450,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8742",
@@ -6035,7 +6479,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8454",
@@ -6062,7 +6508,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5693",
@@ -6092,7 +6540,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_2077",
@@ -6118,7 +6568,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6930",
@@ -6150,7 +6602,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3027",
@@ -6175,7 +6629,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1515",
@@ -6203,7 +6659,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_3513",
@@ -6229,7 +6687,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7977",
@@ -6254,7 +6714,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4244",
@@ -6278,7 +6740,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2200",
@@ -6306,7 +6770,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2133",
@@ -6334,7 +6800,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4416",
@@ -6363,7 +6831,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8677",
@@ -6391,7 +6861,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1592",
@@ -6421,7 +6893,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1319",
@@ -6445,7 +6919,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3439",
@@ -6475,7 +6951,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5805",
@@ -6502,7 +6980,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3031",
@@ -6526,7 +7006,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1271",
@@ -6551,7 +7033,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2420",
@@ -6577,7 +7061,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7127",
@@ -6604,7 +7090,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3881",
@@ -6630,7 +7118,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8629",
@@ -6659,7 +7149,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6636",
@@ -6692,7 +7184,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9287",
@@ -6724,7 +7218,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9019",
@@ -6754,7 +7250,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3410",
@@ -6780,7 +7278,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1519",
@@ -6811,7 +7311,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7674",
@@ -6837,7 +7339,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9454",
@@ -6863,7 +7367,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4105",
@@ -6889,7 +7395,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3877",
@@ -6916,7 +7424,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9023",
@@ -6942,7 +7452,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8794",
@@ -6968,7 +7480,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3084",
@@ -6994,7 +7508,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3665",
@@ -7024,7 +7540,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5804",
@@ -7054,7 +7572,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_7896",
@@ -7081,7 +7601,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_7774",
@@ -7105,7 +7627,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7970",
@@ -7132,7 +7656,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7236",
@@ -7162,7 +7688,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4128",
@@ -7191,7 +7719,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3524",
@@ -7221,7 +7751,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2052",
@@ -7250,7 +7782,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4353",
@@ -7277,7 +7811,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4515",
@@ -7302,7 +7838,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3515",
@@ -7327,7 +7865,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6386",
@@ -7355,7 +7895,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4789",
@@ -7385,7 +7927,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6437",
@@ -7411,7 +7955,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6526",
@@ -7438,7 +7984,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1481",
@@ -7466,7 +8014,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2044",
@@ -7491,7 +8041,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_4703",
@@ -7521,7 +8073,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8876",
@@ -7551,7 +8105,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8032",
@@ -7583,7 +8139,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3013",
@@ -7609,7 +8167,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9409",
@@ -7633,7 +8193,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1442",
@@ -7662,7 +8224,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_7798",
@@ -7688,7 +8252,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1395",
@@ -7719,7 +8285,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5594",
@@ -7747,7 +8315,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1576",
@@ -7774,7 +8344,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1924",
@@ -7800,7 +8372,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7140",
@@ -7830,7 +8404,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_6428",
@@ -7855,7 +8431,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2606",
@@ -7881,7 +8459,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7328",
@@ -7907,7 +8487,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_4036",
@@ -7937,7 +8519,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4686",
@@ -7966,7 +8550,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_8993",
@@ -7991,7 +8577,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5948",
@@ -8017,7 +8605,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8519",
@@ -8042,7 +8632,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_7353",
@@ -8066,7 +8658,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5489",
@@ -8094,7 +8688,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5967",
@@ -8125,7 +8721,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5186",
@@ -8149,7 +8747,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1889",
@@ -8178,7 +8778,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7676",
@@ -8206,7 +8808,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3302",
@@ -8233,7 +8837,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_6566",
@@ -8259,7 +8865,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3634",
@@ -8284,7 +8892,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6594",
@@ -8311,7 +8921,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1645",
@@ -8338,7 +8950,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4593",
@@ -8364,7 +8978,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1269",
@@ -8388,7 +9004,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3380",
@@ -8413,7 +9031,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8804",
@@ -8441,7 +9061,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_2340",
@@ -8476,7 +9098,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8129",
@@ -8501,7 +9125,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_6564",
@@ -8526,7 +9152,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3555",
@@ -8553,7 +9181,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5764",
@@ -8581,7 +9211,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3816",
@@ -8607,7 +9239,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5665",
@@ -8631,7 +9265,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9210",
@@ -8656,7 +9292,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9452",
@@ -8683,7 +9321,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_2140",
@@ -8708,7 +9348,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5494",
@@ -8734,7 +9376,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1455",
@@ -8760,7 +9404,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2033",
@@ -8788,7 +9434,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5829",
@@ -8815,7 +9463,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3826",
@@ -8846,7 +9496,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9818",
@@ -8872,7 +9524,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3190",
@@ -8902,7 +9556,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_4020",
@@ -8929,7 +9585,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3001",
@@ -8954,7 +9612,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4398",
@@ -8983,7 +9643,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3257",
@@ -9010,7 +9672,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1476",
@@ -9037,7 +9701,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_7204",
@@ -9061,7 +9727,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6083",
@@ -9088,7 +9756,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_9344",
@@ -9115,7 +9785,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5239",
@@ -9145,7 +9817,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1621",
@@ -9170,7 +9844,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6789",
@@ -9201,7 +9877,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3192",
@@ -9228,7 +9906,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9430",
@@ -9254,7 +9934,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8598",
@@ -9281,7 +9963,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_3012",
@@ -9307,7 +9991,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6814",
@@ -9337,7 +10023,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_2475",
@@ -9362,7 +10050,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1969",
@@ -9389,7 +10079,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3836",
@@ -9413,7 +10105,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6893",
@@ -9439,7 +10133,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5170",
@@ -9465,7 +10161,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6521",
@@ -9490,7 +10188,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_9323",
@@ -9515,7 +10215,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8291",
@@ -9540,7 +10242,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9245",
@@ -9568,7 +10272,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7430",
@@ -9600,7 +10306,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9584",
@@ -9625,7 +10333,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3397",
@@ -9651,7 +10361,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_6919",
@@ -9677,7 +10389,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7473",
@@ -9704,7 +10418,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6274",
@@ -9730,7 +10446,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8210",
@@ -9762,7 +10480,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8979",
@@ -9791,7 +10511,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "women"
     },
     {
         "id": "user_7987",
@@ -9817,7 +10539,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8256",
@@ -9844,7 +10568,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8932",
@@ -9872,7 +10598,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6664",
@@ -9904,7 +10632,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9823",
@@ -9930,7 +10660,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_1288",
@@ -9957,7 +10689,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_9774",
@@ -9983,7 +10717,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4685",
@@ -10010,7 +10746,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2180",
@@ -10037,7 +10775,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3313",
@@ -10062,7 +10802,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_3185",
@@ -10091,7 +10833,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4770",
@@ -10118,7 +10862,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1280",
@@ -10144,7 +10890,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9532",
@@ -10171,7 +10919,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8674",
@@ -10203,7 +10953,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3445",
@@ -10228,7 +10980,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6808",
@@ -10255,7 +11009,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1491",
@@ -10286,7 +11042,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4496",
@@ -10312,7 +11070,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8918",
@@ -10339,7 +11099,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6725",
@@ -10367,7 +11129,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3721",
@@ -10393,7 +11157,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_2548",
@@ -10419,7 +11185,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9729",
@@ -10447,7 +11215,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8873",
@@ -10474,7 +11244,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6209",
@@ -10504,7 +11276,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_2271",
@@ -10529,7 +11303,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_3993",
@@ -10558,7 +11334,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_7557",
@@ -10589,7 +11367,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_1982",
@@ -10616,7 +11396,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7793",
@@ -10641,7 +11423,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5406",
@@ -10668,7 +11452,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8143",
@@ -10700,7 +11486,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_7639",
@@ -10726,7 +11514,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5480",
@@ -10751,7 +11541,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2690",
@@ -10778,7 +11570,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5446",
@@ -10804,7 +11598,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3922",
@@ -10830,7 +11626,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2363",
@@ -10856,7 +11654,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_8996",
@@ -10882,7 +11682,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_8811",
@@ -10906,7 +11708,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6032",
@@ -10934,7 +11738,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4141",
@@ -10959,7 +11765,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9716",
@@ -10986,7 +11794,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5450",
@@ -11011,7 +11821,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4254",
@@ -11036,7 +11848,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3477",
@@ -11061,7 +11875,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4176",
@@ -11088,7 +11904,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3421",
@@ -11116,7 +11934,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5831",
@@ -11144,7 +11964,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2399",
@@ -11176,7 +11998,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8301",
@@ -11201,7 +12025,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2586",
@@ -11230,7 +12056,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_6266",
@@ -11255,7 +12083,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3708",
@@ -11280,7 +12110,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7756",
@@ -11306,7 +12138,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7802",
@@ -11333,7 +12167,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4096",
@@ -11361,7 +12197,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9561",
@@ -11388,7 +12226,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5676",
@@ -11414,7 +12254,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9639",
@@ -11443,7 +12285,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6088",
@@ -11472,7 +12316,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7097",
@@ -11497,7 +12343,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3830",
@@ -11522,7 +12370,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_1636",
@@ -11552,7 +12402,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7322",
@@ -11580,7 +12432,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9952",
@@ -11611,7 +12465,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7501",
@@ -11638,7 +12494,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4322",
@@ -11665,7 +12523,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3534",
@@ -11695,7 +12555,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8450",
@@ -11723,7 +12585,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3602",
@@ -11752,7 +12616,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5628",
@@ -11777,7 +12643,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_9572",
@@ -11802,7 +12670,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1032",
@@ -11834,7 +12704,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3091",
@@ -11864,7 +12736,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7675",
@@ -11891,7 +12765,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_9389",
@@ -11920,7 +12796,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5112",
@@ -11951,7 +12829,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_9692",
@@ -11976,7 +12856,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_8041",
@@ -12006,7 +12888,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3784",
@@ -12033,7 +12917,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8443",
@@ -12057,7 +12943,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3524",
@@ -12083,7 +12971,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1693",
@@ -12108,7 +12998,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2509",
@@ -12132,7 +13024,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4794",
@@ -12159,7 +13053,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8642",
@@ -12188,7 +13084,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8339",
@@ -12214,7 +13112,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_9236",
@@ -12241,7 +13141,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3108",
@@ -12266,7 +13168,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2710",
@@ -12293,7 +13197,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2100",
@@ -12320,7 +13226,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3647",
@@ -12346,7 +13254,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7204",
@@ -12371,7 +13281,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1299",
@@ -12397,7 +13309,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_6731",
@@ -12424,7 +13338,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9565",
@@ -12451,7 +13367,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8320",
@@ -12478,7 +13396,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_5015",
@@ -12503,7 +13423,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2156",
@@ -12529,7 +13451,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2192",
@@ -12554,7 +13478,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2504",
@@ -12582,7 +13508,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2132",
@@ -12613,7 +13541,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5238",
@@ -12637,7 +13567,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7397",
@@ -12662,7 +13594,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7315",
@@ -12689,7 +13623,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": "lgbtq+"
     },
     {
         "id": "user_3975",
@@ -12720,7 +13656,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3481",
@@ -12746,7 +13684,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1590",
@@ -12771,7 +13711,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1105",
@@ -12797,7 +13739,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2078",
@@ -12824,7 +13768,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8084",
@@ -12851,7 +13797,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7876",
@@ -12877,7 +13825,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3133",
@@ -12905,7 +13855,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4991",
@@ -12933,7 +13885,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1468",
@@ -12966,7 +13920,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_9980",
@@ -12998,7 +13954,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_7404",
@@ -13024,7 +13982,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6005",
@@ -13049,7 +14009,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9244",
@@ -13075,7 +14037,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_1620",
@@ -13104,7 +14068,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_6164",
@@ -13132,7 +14098,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4106",
@@ -13158,7 +14126,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2001",
@@ -13189,7 +14159,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5485",
@@ -13216,7 +14188,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6205",
@@ -13242,7 +14216,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5322",
@@ -13270,7 +14246,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9343",
@@ -13298,7 +14276,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4813",
@@ -13329,7 +14309,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1309",
@@ -13355,7 +14337,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5781",
@@ -13381,7 +14365,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1115",
@@ -13408,7 +14394,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3515",
@@ -13435,7 +14423,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9115",
@@ -13461,7 +14451,9 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_7504",
@@ -13490,7 +14482,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9343",
@@ -13515,7 +14509,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_1972",
@@ -13540,7 +14536,9 @@
             "Healthcare"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_3299",
@@ -13567,7 +14565,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5375",
@@ -13591,7 +14591,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8725",
@@ -13620,7 +14622,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "low-income"
     },
     {
         "id": "user_4504",
@@ -13645,7 +14649,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_9871",
@@ -13669,7 +14675,9 @@
             "Retail"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5007",
@@ -13699,7 +14707,9 @@
             "Finance"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2768",
@@ -13725,7 +14735,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_2788",
@@ -13751,7 +14763,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": "bipoc"
     },
     {
         "id": "user_7692",
@@ -13778,7 +14792,9 @@
             "Retail"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": "first-gen"
     },
     {
         "id": "user_1227",
@@ -13809,7 +14825,9 @@
             "Technology"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4587",
@@ -13834,7 +14852,9 @@
             "Education"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_6824",
@@ -13860,7 +14880,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4717",
@@ -13885,7 +14907,9 @@
             "Healthcare"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "quarterly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_8653",
@@ -13911,7 +14935,9 @@
             "Technology"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_4916",
@@ -13940,7 +14966,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5439",
@@ -13973,7 +15001,9 @@
             "Finance"
         ],
         "highest_level": "Senior",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "monthly",
+        "underrepresented_group": ""
     },
     {
         "id": "user_5750",
@@ -13998,6 +15028,8 @@
             "Education"
         ],
         "highest_level": "Management",
-        "mentorship_position": "mentor"
+        "mentorship_position": "mentor",
+        "time_preference": "weekly",
+        "underrepresented_group": ""
     }
 ]

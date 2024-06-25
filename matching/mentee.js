@@ -6,49 +6,73 @@ const mentee = {
     degree: 'Computer Science',
     industry: 'Technology',
     school: 'Stanford University',
-    location: 'BOSTON, MA',
+    location: 'SAN FRANCISCO, CA',
     time_preference: 'Weekly',
-    skills: ['information security', 'aws', 'software']
+    skills: ['blockchain', 'aws', 'software'],
+    underrepresented_group: 'women'
 };
 
 // Function to calculate match percentage
 function calculateMatchPercentage(mentor, mentee) {
     let score = 0;
-    let maxScore = 6; // Max score: 1 for degree, 1 for industry, 1 for school, 1 for location, 1 for time_preference, 1 for skills
+    let maxScore = 0;
 
     // Check degree
-    if (!mentee.degree || mentor.degrees.includes(mentee.degree)) {
-        score += 1;
+    if (mentee.degree) {
+        maxScore += 1;
+        if (mentor.degrees.includes(mentee.degree)) {
+            score += 1;
+        }
     }
 
     // Check industry
-    if (!mentee.industry || mentor.industries.includes(mentee.industry)) {
-        score += 1;
+    if (mentee.industry) {
+        maxScore += 1;
+        if (mentor.industries.includes(mentee.industry)) {
+            score += 1;
+        }
     }
 
     // Check school
-    if (!mentee.school || mentor.school_names.includes(mentee.school)) {
-        score += 1;
+    if (mentee.school) {
+        maxScore += 1;
+        if (mentor.school_names.includes(mentee.school)) {
+            score += 1;
+        }
     }
 
     // Check location
-    if (!mentee.location || mentor.current_location === mentee.location.toUpperCase()) {
-        score += 1;
+    if (mentee.location) {
+        maxScore += 1;
+        if (mentor.current_location === mentee.location.toUpperCase()) {
+            score += 1;
+        }
     }
 
     // Check time preference
-    if (!mentee.time_preference || mentor.time_preference === mentee.time_preference) {
-        score += 1;
+    if (mentee.time_preference) {
+        maxScore += 1;
+        if (mentor.time_preference === mentee.time_preference) {
+            score += 1;
+        }
     }
 
     // Check skills
     if (mentee.skills.length > 0) {
+        maxScore += mentee.skills.length;
         const matchingSkills = mentor.skills.filter(skill => mentee.skills.includes(skill));
-        score += matchingSkills.length / mentee.skills.length; // Partial points for each matching skill
-        maxScore += mentee.skills.length - 1; // Adjust max score for each skill
+        score += matchingSkills.length;
     }
 
-    return Math.round((score / maxScore) * 100);
+    // Check underrepresented groups
+    if (mentee.underrepresented_group) {
+        maxScore += 1;
+        if (mentor.underrepresented_group && mentor.underrepresented_group.includes(mentee.underrepresented_group)) {
+            score += 1;
+        }
+    }
+
+    return maxScore > 0 ? Math.round((score / maxScore) * 100) : 0;
 }
 
 // Function to match mentee with mentors and sort by match percentage
@@ -78,12 +102,12 @@ fs.readFile(mentorsPath, 'utf8', (err, data) => {
     const matches = matchMenteeWithMentors(mentee, mentors);
 
     // Save matches to a file
-    const matchesPath = path.join(__dirname, 'matches.json');
+    const matchesPath = path.join(__dirname, 'mentee_to_mentor_matches.json');
     fs.writeFile(matchesPath, JSON.stringify(matches, null, 4), 'utf8', err => {
         if (err) {
             console.error('Error writing matches.json:', err);
             return;
         }
-        console.log('Matches data saved to matches.json');
+        console.log('Matches data saved to mentee_to_mentor_matches.json');
     });
 });
