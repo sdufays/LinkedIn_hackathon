@@ -110,5 +110,13 @@ body, html {
 .message-btn {
   background-color: white; ;
   color: #0a66c2;
-  border-radius: 15%;
+  border-radius: 29%;
+  border-color: #0a66c2;
+  padding: 6px 16px;
+}
+
+.message-btn:hover
+{
+  background-color: #0a66c2;
+  border-width: px;
 }
