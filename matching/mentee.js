@@ -1,16 +1,6 @@
+// mentee.js
 const fs = require('fs');
 const path = require('path');
-
-// Sample mentee object
-const mentee = {
-    degree: 'Computer Science',
-    industry: 'Technology',
-    school: 'Stanford University',
-    location: 'SAN FRANCISCO, CA',
-    time_preference: 'Weekly',
-    skills: ['blockchain', 'aws', 'software'],
-    underrepresented_group: 'women'
-};
 
 // Function to calculate match percentage
 function calculateMatchPercentage(mentor, mentee) {
@@ -90,24 +80,33 @@ function matchMenteeWithMentors(mentee, mentors) {
     return matches;
 }
 
-// Load mentors data from mentors.json file
-const mentorsPath = path.join(__dirname, '../data/mentors.json');
-fs.readFile(mentorsPath, 'utf8', (err, data) => {
-    if (err) {
-        console.error('Error reading mentors.json:', err);
-        return;
-    }
-
-    const mentors = JSON.parse(data);
-    const matches = matchMenteeWithMentors(mentee, mentors);
-
-    // Save matches to a file
-    const matchesPath = path.join(__dirname, 'mentee_to_mentor_matches.json');
-    fs.writeFile(matchesPath, JSON.stringify(matches, null, 4), 'utf8', err => {
+function loadMentorsAndMatchMentee(mentee, callback) {
+    // Load mentors data from mentors.json file
+    const mentorsPath = path.join(__dirname, '../data/mentors.json');
+    fs.readFile(mentorsPath, 'utf8', (err, data) => {
         if (err) {
-            console.error('Error writing matches.json:', err);
-            return;
+            console.error('Error reading mentors.json:', err);
+            return callback(err);
         }
-        console.log('Matches data saved to mentee_to_mentor_matches.json');
+
+        const mentors = JSON.parse(data);
+        const matches = matchMenteeWithMentors(mentee, mentors);
+
+        // Save matches to a file
+        const matchesPath = path.join(__dirname, 'mentee_to_mentor_matches.json');
+        fs.writeFile(matchesPath, JSON.stringify(matches, null, 4), 'utf8', err => {
+            if (err) {
+                console.error('Error writing matches.json:', err);
+                return callback(err);
+            }
+            console.log('Matches data saved to mentee_to_mentor_matches.json');
+            callback(null, matches);
+        });
     });
-});
+}
+
+module.exports = {
+    calculateMatchPercentage,
+    matchMenteeWithMentors,
+    loadMentorsAndMatchMentee
+};
