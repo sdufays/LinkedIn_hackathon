@@ -10,48 +10,41 @@
 </head>
 <body class="bg-gray-100">
     <header class="header">
-        <div class="logo">
-            <img src="https://via.placeholder.com/100x30" alt="LinkedIn Logo">
-        </div>
-        <div class="search">
-            <input type="text" placeholder="Search">
-            <img src="https://via.placeholder.com/20" alt="Search Icon">
-        </div>
-        <nav>
-            <a href="#">
-                <img src="https://via.placeholder.com/24" alt="Home Icon"> Home
-            </a>
-            <a href="#">
-                <img src="https://via.placeholder.com/24" alt="My Network Icon"> My Network
-            </a>
-            <a href="#">
-                <img src="https://via.placeholder.com/24" alt="Jobs Icon"> Jobs
-            </a>
-            <a href="#">
-                <img src="https://via.placeholder.com/24" alt="Messaging Icon"> Messaging
-            </a>
-            <a href="#">
-                <img src="https://via.placeholder.com/24" alt="Notifications Icon"> Notifications
-            </a>
-            <a href="#">
-                <img src="https://via.placeholder.com/24" alt="Me Icon"> Me
-            </a>
-        </nav>
-    </header>
-    <div class="flex items-center justify-center min-h-screen mt-12 mb-12 bg-gray-100">
-        <div class="overlay bg-white rounded-lg shadow-lg w-4/5 max-w-6xl p-8 flex">
-            <header class="header mb-8">
-                <div class="header-content flex items-center justify-between">
-                    <nav class="header-nav flex space-x-4">
-                        <a href="myMentors.html" class="mentors-tab text-blue-500 hover:underline">Your mentors</a>
-                        <a href="myMentee.html" class="mentors-tab text-blue-500 hover:underline">Your mentees</a>
-                    </nav>
-                    <a href="makeProfile.html">
-                        <button class="create-button bg-blue-500 text-white px-4 py-2 rounded">Create Profile</button>
-                    </a>
+        <div class="flex justify-between items-center w-full px-6">
+            <div class="flex items-center">
+                <img src="https://via.placeholder.com/100x30" alt="LinkedIn Logo" class="logo">
+                <div class="flex items-center border border-gray-300 rounded ml-4 p-2">
+                    <input type="text" placeholder="Search" class="border-none outline-none">
+                    <img src="https://via.placeholder.com/20" alt="Search Icon" class="ml-2">
                 </div>
-                <div class="header-line bg-black h-0.5 mt-4"></div>
-            </header>
+            </div>
+            <nav class="flex space-x-4">
+                <a href="#">
+                    <img src="https://via.placeholder.com/24" alt="Home Icon"> Home
+                </a>
+                <a href="#">
+                    <img src="https://via.placeholder.com/24" alt="My Network Icon"> My Network
+                </a>
+                <a href="#">
+                    <img src="https://via.placeholder.com/24" alt="Jobs Icon"> Jobs
+                </a>
+                <a href="#">
+                    <img src="https://via.placeholder.com/24" alt="Messaging Icon"> Messaging
+                </a>
+                <a href="#">
+                    <img src="https://via.placeholder.com/24" alt="Notifications Icon"> Notifications
+                </a>
+                <a href="#">
+                    <img src="https://via.placeholder.com/24" alt="Me Icon"> Me
+                </a>
+            </nav>
+        </div>
+    </header>
+    <div class="flex justify-center mt-4 mb-2">
+        <h1 class="text-2xl font-bold bg-white px-4 py-2 rounded">Membership Profile</h1>
+    </div>
+    <div class="flex items-center justify-center min-h-screen mt-4 mb-12 bg-gray-100">
+        <div class="overlay bg-white rounded-lg shadow-lg w-4/5 max-w-6xl p-8 flex flex-col">
             <div class="content flex flex-col w-full">
                 <section class="create-profile-demo">
                     <div class="mb-4 flex items-center">
