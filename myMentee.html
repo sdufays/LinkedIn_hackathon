@@ -1,44 +1,47 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="globals.css" />
-    <link rel="stylesheet" href="myMentee.css" />
-
-
-    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-
-  </head>
-  <body>
-    <div class="your-mentees-tab">
-      <div class="overlap-wrapper">
-        <div class="overlap">
-          <div class="rectangle"></div>
-          <div class="create-profile"></div>
-          <div class="text-wrapper">Your mentors</div>
-          <div class="div">Your mentees</div>
-          <div class="text-wrapper-2">Create Profile</div>
-          <img class="line" src="img/line-2.svg" />
-          <div class="group">
-            <img class="img" src="img/line-1.svg" />
-            <p class="search-for-other">
-              <span class="span">Search</span> <span class="text-wrapper-3"> for other mentees</span>
-            </p>
-            <div class="ellipse"></div>
-            <div class="ellipse-2"></div>
-            <p class="sayada-arouna">
-              <span class="text-wrapper-3">Sayada Arouna </span> <span class="text-wrapper-4">1st</span>
-            </p>
-            <p class="spongebob-square">
-              <span class="text-wrapper-3">SpongeBob Square Pants </span> <span class="text-wrapper-4">1st</span>
-            </p>
-            <div class="overlap-group"><div class="text-wrapper-5">Message</div></div>
-            <div class="div-wrapper"><div class="text-wrapper-5">Message</div></div>
-            <img class="line-2" src="img/line-3.svg" />
-            <img class="line-3" src="img/line-4.svg" />
-          </div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="myMentee.css">
+    <title>LinkedIn My Network</title>
+</head>
+<body>
+    <div class="overlay">
+        <header class="header">
+            <div class="header-content">
+                <h1>Mentee</h1>
+                <nav class="header-nav">
+                    <a href="#">Your mentors</a>
+                    <a href="#">Your mentees</a>
+                    <a href="#"><button> Create Profile</button></a>
+                </nav>
+            </div>
+            <div class="header-line"></div>
+        </header>
+        <div class="content">
+            <section class="invitations">
+                <div class="invitation">
+                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image">
+                    <div class="invitation-info">
+                        <p class="name">John Doe</p>
+                        <p class="occupation">Software Engineer at Company 
+                            <button class="message-btn">Message</button> 
+                        </p>
+                    </div>
+                </div>
+                <div class="invitation">
+                    <img src="https://via.placeholder.com/60" alt="Profile Image" class="profile-image">
+                    <div class="invitation-info">
+                        <p class="name">Jane Smith</p>
+                        <p class="occupation">Project Manager at Company 
+                            <button class="message-btn">Message</button> </p>
+                    </div>
+                </div>
+                <!-- Add more invitations as needed -->
+            </section>
         </div>
-      </div>
     </div>
-  </body>
+</body>
 </html>
