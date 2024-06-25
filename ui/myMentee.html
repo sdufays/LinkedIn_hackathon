@@ -7,88 +7,54 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="myMentee.css">
     <title>LinkedIn My Network</title>
-
-
-    <title>Rounded Rectangle Button</title>
-    <style>
-        .message-button {
-            padding: 10px 20px;
-            font-size: 16px;
-            color: black;
-            background-color: white;
-            border: 2px solid rgb(10, 102, 205);
-            border-radius: 28px; /* This makes the corners rounded */
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-
-        .message-button:hover {
-            background-color: rgb(10, 95, 193); /* Light blue background on hover */
-        }
-
-        .create-button:hover {
-            background-color: rgb(10, 95, 193); /* Light blue background on hover */
-        }
-
-        .mentors-tab:hover {
-            background-color: rgb(79, 138, 206); /* Light blue background on hover */
-        }
-
-        .mentee-tab:hover {
-            background-color: rgb(79, 138, 206); /* Light blue background on hover */
-        }
-    </style>
 </head>
 
-<body class="flex items-center justify-center min-h-screen" style="background-color: #F4F2EE;">
+<body class="flex items-center justify-center min-h-screen bg-gray-100">
     <div class="overlay">
         <header class="header">
-            <nav class="header">
-                <div class="flex justify-between items-center w-full px-6">
-                    <div class="flex items-center">
-                        <img src="img/linkedinlogo.png" alt="LinkedIn Logo" class="logo">
-        
-                        <div class="flex items-center border border-gray-300 rounded ml-4 p-2 bg-gray-100 h-10">
-                            <img src="img/searchicon.jpg" alt="Search Icon" class="ml-2 h-full">
-                            <input type="text" placeholder="Search" class="border-none outline-none bg-gray-100 h-full">
-                        </div>
+            <div class="flex justify-between items-center w-full px-6">
+                <div class="flex items-center">
+                    <img src="img/linkedinlogo.png" alt="LinkedIn Logo" class="logo">
+                    <div class="flex items-center border border-gray-300 rounded ml-4 p-2 bg-gray-100 h-10">
+                        <img src="img/searchicon.jpg" alt="Search Icon" class="ml-2 h-full">
+                        <input type="text" placeholder="Search" class="border-none outline-none bg-gray-100 h-full">
                     </div>
-                    <nav class="flex space-x-4 items-center">
-                        <a href="#" class="flex flex-col items-center">
-                            <img src="img/homeicon.jpg" alt="Home Icon">
-                            <span>Home</span>
-                        </a>
-                        <a href="#" class="flex flex-col items-center">
-                            <img src="img/networkicon.jpg" alt="My Network Icon">
-                            <span>My Network</span>
-                        </a>
-                        <a href="#" class="flex flex-col items-center">
-                            <img src="img/jobsicon.jpg" alt="Jobs Icon">
-                            <span>Jobs</span>
-                        </a>
-                        <a href="#" class="flex flex-col items-center">
-                            <img src="img/messageicon.jpg" alt="Messaging Icon">
-                            <span>Messaging</span>
-                        </a>
-                        <a href="#" class="flex flex-col items-center">
-                            <img src="img/notifsicon.jpg" alt="Notifications Icon">
-                            <span>Notifications</span>
-                        </a>
-                        <a href="#" class="flex flex-col items-center">
-                            <img src="img/person.jpg" alt="Me Icon">
-                            <span>Me</span>
-                        </a>
-                        <a href="#" class="flex flex-col items-center">
-                            <img src="img/businessicon.jpg" alt="For Business Icon">
-                            <span>For Business</span>
-                        </a>
-                        <a href="#" class="flex flex-col items-center">
-                            <img src="img/learningicon.jpg" alt="Learning Icon">
-                            <span>Learning</span>
-                        </a>
-                    </nav>
                 </div>
-            </nav>
+                <nav class="flex space-x-4 items-center">
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/homeicon.jpg" alt="Home Icon">
+                        <span>Home</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/networkicon.jpg" alt="My Network Icon">
+                        <span>My Network</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/jobsicon.jpg" alt="Jobs Icon">
+                        <span>Jobs</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/messageicon.jpg" alt="Messaging Icon">
+                        <span>Messaging</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/notifsicon.jpg" alt="Notifications Icon">
+                        <span>Notifications</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/person.jpg" alt="Me Icon">
+                        <span>Me</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/businessicon.jpg" alt="For Business Icon">
+                        <span>For Business</span>
+                    </a>
+                    <a href="#" class="flex flex-col items-center">
+                        <img src="img/learningicon.jpg" alt="Learning Icon">
+                        <span>Learning</span>
+                    </a>
+                </nav>
+            </div>
             <div class="header-content flex items-center space-x-4">
                 <nav class="header-nav flex space-x-4 mb-2">
                     <a href="myMentors.html" class="mentors-tab text-blue-500 hover:underline">Your mentors</a>
@@ -117,7 +83,8 @@
                         <p class="name">Jane Smith</p>
                         <p class="occupation">Project Manager at Company 
                             <button class="message-button float-right">Message</button>
-                        </div>
+                        </p>
+                    </div>
                 </div>
                 <!-- Add more invitations as needed -->
             </section>
