@@ -7,68 +7,59 @@ function calculateMatchPercentage(mentor, mentee) {
     let maxScore = 0;
 
     // Check degree
-    if (mentee.degree) {
+    if (mentee.degree && mentee.degree.trim() !== '') {
         maxScore += 1;
-        if (mentor.degrees.includes(mentee.degree)) {
+        if (mentor.degrees.includes(mentee.degree.trim())) {
             score += 1;
         }
     }
 
     // Check industry
-    if (mentee.industry) {
+    if (mentee.industry && mentee.industry.trim() !== '') {
         maxScore += 1;
-        if (mentor.industries.includes(mentee.industry)) {
+        if (mentor.industries.includes(mentee.industry.trim())) {
             score += 1;
         }
     }
 
     // Check school
-    if (mentee.school) {
+    if (mentee.school && mentee.school.trim() !== '') {
         maxScore += 1;
-        if (mentor.school_names.includes(mentee.school)) {
+        if (mentor.school_names.includes(mentee.school.trim())) {
             score += 1;
         }
     }
 
     // Check location
-    if (mentee.location) {
+    if (mentee.location && mentee.location.trim() !== '') {
         maxScore += 1;
-        if (mentor.current_location === mentee.location.toUpperCase()) {
+        if (mentor.current_location.toUpperCase() === mentee.location.trim().toUpperCase()) {
             score += 1;
         }
     }
 
     // Check time preference
-    if (mentee.time_preference) {
+    if (mentee.time_preference && mentee.time_preference.trim() !== '') {
         maxScore += 1;
-        if (mentor.time_preference.toLowerCase() === mentee.time_preference.toLowerCase()) {
+        if (mentor.time_preference.toLowerCase() === mentee.time_preference.trim().toLowerCase()) {
             score += 1;
         }
     }
 
     // Check skills
-    if (mentee.skills.length > 0) {
+    if (mentee.skills && mentee.skills.length > 0) {
         maxScore += mentee.skills.length;
         const matchingSkills = mentor.skills.filter(skill => mentee.skills.includes(skill));
         score += matchingSkills.length;
     }
 
     // Check underrepresented groups
-    if (mentee.underrepresented_group) {
+    if (mentee.underrepresented_group && mentee.underrepresented_group.trim() !== '') {
         maxScore += 1;
-        if (mentor.underrepresented_group.toLowerCase() === mentee.underrepresented_group.toLowerCase()) {
+        if (mentor.underrepresented_group.toLowerCase() === mentee.underrepresented_group.trim().toLowerCase()) {
             score += 1;
         }
     }
-
-    // console.log(`Match calculation for mentee ${mentee.name} and mentor ${mentor.name}:`);
-    // console.log(`Degree: ${score}/${maxScore} (Mentor: ${mentor.degrees}, Mentee: ${mentee.degree})`);
-    // console.log(`Industry: ${score}/${maxScore} (Mentor: ${mentor.industries}, Mentee: ${mentee.industry})`);
-    // console.log(`School: ${score}/${maxScore} (Mentor: ${mentor.school_names}, Mentee: ${mentee.school})`);
-    // console.log(`Location: ${score}/${maxScore} (Mentor: ${mentor.current_location}, Mentee: ${mentee.location})`);
-    // console.log(`Time Preference: ${score}/${maxScore} (Mentor: ${mentor.time_preference}, Mentee: ${mentee.time_preference})`);
-    // console.log(`Skills: ${score}/${maxScore} (Mentor: ${mentor.skills}, Mentee: ${mentee.skills})`);
-    // console.log(`Underrepresented Group: ${score}/${maxScore} (Mentor: ${mentor.underrepresented_group}, Mentee: ${mentee.underrepresented_group})`);
 
     return maxScore > 0 ? Math.round((score / maxScore) * 100) : 0;
 }

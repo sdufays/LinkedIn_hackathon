@@ -7,56 +7,56 @@ function calculateMatchPercentage(mentee, mentor) {
     let maxScore = 0;
 
     // Check degree
-    if (mentor.degree) {
+    if (mentor.degree && mentor.degree.trim() !== '') {
         maxScore += 1;
-        if (mentee.degrees.includes(mentor.degree)) {
+        if (mentee.degrees.includes(mentor.degree.trim())) {
             score += 1;
         }
     }
 
     // Check industry
-    if (mentor.industry) {
+    if (mentor.industry && mentor.industry.trim() !== '') {
         maxScore += 1;
-        if (mentee.industries.includes(mentor.industry)) {
+        if (mentee.industries.includes(mentor.industry.trim())) {
             score += 1;
         }
     }
 
     // Check school
-    if (mentor.school) {
+    if (mentor.school && mentor.school.trim() !== '') {
         maxScore += 1;
-        if (mentee.school_names.includes(mentor.school)) {
+        if (mentee.school_names.includes(mentor.school.trim())) {
             score += 1;
         }
     }
 
     // Check location
-    if (mentor.location) {
+    if (mentor.location && mentor.location.trim() !== '') {
         maxScore += 1;
-        if (mentee.current_location === mentor.location.toUpperCase()) {
+        if (mentee.current_location.toUpperCase() === mentor.location.trim().toUpperCase()) {
             score += 1;
         }
     }
 
     // Check time preference
-    if (mentor.time_preference) {
+    if (mentor.time_preference && mentor.time_preference.trim() !== '') {
         maxScore += 1;
-        if (mentee.time_preference.toLowerCase() === mentor.time_preference.toLowerCase()) {
+        if (mentee.time_preference.toLowerCase() === mentor.time_preference.trim().toLowerCase()) {
             score += 1;
         }
     }
 
     // Check skills
-    if (mentor.skills.length > 0) {
+    if (mentor.skills && mentor.skills.length > 0) {
         maxScore += mentor.skills.length;
         const matchingSkills = mentee.skills.filter(skill => mentor.skills.includes(skill));
         score += matchingSkills.length;
     }
 
     // Check underrepresented groups
-    if (mentor.underrepresented_group) {
+    if (mentor.underrepresented_group && mentor.underrepresented_group.trim() !== '') {
         maxScore += 1;
-        if (mentee.underrepresented_group.toLowerCase() === mentor.underrepresented_group.toLowerCase()) {
+        if (mentee.underrepresented_group.toLowerCase() === mentor.underrepresented_group.trim().toLowerCase()) {
             score += 1;
         }
     }
