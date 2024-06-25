@@ -5,207 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="myMentor.css">
+    <link rel="stylesheet" href="myMentee.css">
     <title>LinkedIn My Network</title>
-    <style>
-        .message-button {
-            padding: 10px 20px;
-            font-size: 16px;
-            color: black;
-            background-color: white;
-            border: 2px solid rgb(10, 102, 205);
-            border-radius: 28px; /* This makes the corners rounded */
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-
-        .message-button:hover {
-            background-color: rgb(10, 95, 193); /* Light blue background on hover */
-        }
-
-        .create-button:hover {
-            background-color: rgb(10, 95, 193); /* Light blue background on hover */
-        }
-
-        .header {
-            background-color: #ffffff;
-            border-bottom: 1px solid #e6e9ec;
-            box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
-            padding: 0 24px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: space-between;
-            height: auto;
-            width: 100%;
-        }
-
-        .header .logo {
-            height: 30px;
-        }
-
-        .header nav a {
-            text-decoration: none;
-            color: #0073b1;
-            font-weight: 500;
-            margin-left: 24px;
-            display: flex;
-            align-items: center;
-            flex-direction: column;
-            transition: color 0.3s;
-        }
-
-        .header nav a:hover {
-            color: #004182;
-        }
-
-        .header nav a img {
-            height: 24px;
-            margin-bottom: 4px;
-        }
-
-        .header .search {
-            display: flex;
-            align-items: center;
-            border: 1px solid #e6e9ec;
-            border-radius: 4px;
-            padding: 4px 8px;
-        }
-
-        .header .search input {
-            border: none;
-            outline: none;
-            padding: 4px;
-            background-color: #f4f2ee;
-        }
-
-        .header .search img {
-            height: 20px;
-            margin-left: 8px;
-        }
-
-        .header-content {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            width: 100%;
-            padding: 8px 0;
-        }
-
-        .header-line {
-            width: 100%;
-            height: 1px;
-            background-color: #e6e9ec;
-            margin-top: 8px;
-        }
-
-        .overlay {
-            background-color: white;
-            border-radius: 0.5rem;
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-            width: 80%;
-            max-width: 72rem;
-            padding: 2rem;
-            display: flex;
-            flex-direction: column;
-        }
-
-        .content {
-            display: flex;
-            flex-direction: column;
-            width: 100%;
-        }
-
-        .text-gray-700 {
-            color: #4a5568;
-        }
-
-        .text-sm {
-            font-size: 0.875rem;
-        }
-
-        .font-bold {
-            font-weight: 700;
-        }
-
-        .p-2 {
-            padding: 0.5rem;
-        }
-
-        .border {
-            border-width: 1px;
-        }
-
-        .border-gray-300 {
-            border-color: #e2e8f0;
-        }
-
-        .rounded {
-            border-radius: 0.25rem;
-        }
-
-        .bg-blue-500 {
-            background-color: #0073b1;
-        }
-
-        .text-white {
-            color: white;
-        }
-
-        .px-4 {
-            padding-left: 1rem;
-            padding-right: 1rem;
-        }
-
-        .py-2 {
-            padding-top: 0.5rem;
-            padding-bottom: 0.5rem;
-        }
-
-        .bg-gray-100 {
-            background-color: #f4f2ee;
-        }
-
-        .float-right {
-            float: right;
-        }
-
-        .flex {
-            display: flex;
-        }
-
-        .items-center {
-            align-items: center;
-        }
-
-        .justify-center {
-            justify-content: center;
-        }
-
-        .min-h-screen {
-            min-height: 100vh;
-        }
-
-        .mt-2 {
-            margin-top: 0.5rem;
-        }
-
-        .mb-2 {
-            margin-bottom: 0.5rem;
-        }
-
-        .rounded {
-            border-radius: 0.25rem;
-        }
-
-        .bg-blue-500:hover {
-            background-color: #005582;
-        }
-    </style>
 </head>
 
-<body class="flex items-center justify-center min-h-screen bg-gray-100 mt-60">
-    <div class="overlay mt-30">
+<body class="flex items-center justify-center min-h-screen bg-gray-100 mt-8">
+    <div class="overlay">
         <header class="header">
             <div class="flex justify-between items-center w-full px-6">
                 <div class="flex items-center">
@@ -215,7 +20,7 @@
                         <input type="text" placeholder="Search" class="border-none outline-none bg-gray-100 h-full">
                     </div>
                 </div>
-                <nav class="flex space-x-4 items-center">
+                <nav class="flex space-x-4 items-center mb-6">
                     <a href="#" class="flex flex-col items-center">
                         <img src="img/homeicon.jpg" alt="Home Icon">
                         <span>Home</span>
@@ -250,15 +55,14 @@
                     </a>
                 </nav>
             </div>
-            <div class="header-content flex items-center space-x-4 mt-40">
-                <nav class="header-nav flex space-x-4 mb-2">
-                    <a href="myMentor.html" class="mentors-tab hover:underline">Your mentors</a>
-                    <a href="myMentee.html" class="mentees-tab hover:underline">Your mentees</a>
+            <div class="header-content flex items-center space-x-4">
+                <nav class="header-nav flex space-x-4 mb-2`">
+                    <a href="myMentor.html" class="mentors-tab text-blue-500 hover:underline">Your mentors</a>
+                    <a href="myMentee.html" class="mentees-tab text-blue-500 hover:underline">Your mentees</a>
                 </nav>
                 <div>
-                    <a href="create-Mentee-Profile.html"><button class="create-button bg-blue-500 text-white px-4 py-2 rounded float-right">Create Mentee Profile</button></a>
+                    <a href="create-Mentor-profile.html"><button class="create-button bg-blue-500 text-white px-4 py-2 rounded mb-1 float-right">Create Mentor Profile</button></a>
                 </div>
-
             </div>
             <div class="header-line"></div>
         </header>
@@ -285,12 +89,13 @@
                 <!-- Add more invitations as needed -->
             </section>
         </div>
-        
         <div class="text-center mt-4 text-xl">
-            <a href="matches.html" class="text-blue-500 hover:underline font-bold">Search</a> <span class="text-black"> for other mentees</span>
+            <a href="matches.html" class="text-blue-500 hover:underline font-bold">Search </a> <span class="text-black"> for other mentees</span>
         </div>
-      
+        <br><br>
     </div>
+
     <script src="script.js"></script>
+
 </body>
 </html>
