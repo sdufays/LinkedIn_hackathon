@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
     navLinks.forEach(link => {
         const page = link.getAttribute('data-page');
         if (currentPage.includes(page)) {
-            link.classList.add('myMentee.html');
+            link.classList.add('active-tab');
         }
     });
 });
