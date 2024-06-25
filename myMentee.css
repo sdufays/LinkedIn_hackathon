@@ -1,0 +1,227 @@
+.your-mentees-tab {
+    background-color: #f4f2ee;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .your-mentees-tab .overlap-wrapper {
+    background-color: #f4f2ee;
+    width: 2425px;
+    height: 1432px;
+  }
+  
+  .your-mentees-tab .overlap {
+    position: relative;
+    height: 1432px;
+    background-image: url(./img/tan-background.svg);
+    background-size: 100% 100%;
+  }
+  
+  .your-mentees-tab .rectangle {
+    position: absolute;
+    width: 1512px;
+    height: 1299px;
+    top: 133px;
+    left: 143px;
+    background-color: #ffffff;
+  }
+  
+  .your-mentees-tab .create-profile {
+    position: absolute;
+    width: 255px;
+    height: 69px;
+    top: 142px;
+    left: 1363px;
+    background-color: #ffffff;
+    border-radius: 55px;
+    border: 3.5px solid;
+    border-color: #659fd9;
+  }
+  
+  .your-mentees-tab .text-wrapper {
+    left: 215px;
+    position: absolute;
+    top: 181px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .your-mentees-tab .div {
+    left: 437px;
+    position: absolute;
+    top: 181px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .your-mentees-tab .text-wrapper-2 {
+    position: absolute;
+    top: 161px;
+    left: 1420px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .your-mentees-tab .line {
+    position: absolute;
+    width: 184px;
+    height: 4px;
+    top: 230px;
+    left: 418px;
+  }
+  
+  .your-mentees-tab .group {
+    position: absolute;
+    width: 1521px;
+    height: 1116px;
+    top: 233px;
+    left: 144px;
+  }
+  
+  .your-mentees-tab .img {
+    position: absolute;
+    width: 1511px;
+    height: 3px;
+    top: -3px;
+    left: 0;
+  }
+  
+  .your-mentees-tab .search-for-other {
+    position: absolute;
+    top: 1075px;
+    left: 558px;
+    font-family: "Georama-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 34px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .your-mentees-tab .span {
+    color: #659fd9;
+  }
+  
+  .your-mentees-tab .text-wrapper-3 {
+    color: #000000;
+  }
+  
+  .your-mentees-tab .ellipse {
+    top: 77px;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 84px;
+    background-color: #d9d9d9;
+    border-radius: 62.5px;
+  }
+  
+  .your-mentees-tab .ellipse-2 {
+    top: 281px;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 84px;
+    background-color: #d9d9d9;
+    border-radius: 62.5px;
+  }
+  
+  .your-mentees-tab .sayada-arouna {
+    position: absolute;
+    width: 303px;
+    top: 106px;
+    left: 240px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .your-mentees-tab .text-wrapper-4 {
+    color: #8e8787;
+  }
+  
+  .your-mentees-tab .spongebob-square {
+    position: absolute;
+    width: 353px;
+    top: 308px;
+    left: 238px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .your-mentees-tab .overlap-group {
+    position: absolute;
+    width: 248px;
+    height: 67px;
+    top: 91px;
+    left: 1219px;
+    background-color: #ffffff;
+    border-radius: 55px;
+    border: 3.5px solid;
+    border-color: #659fd9;
+  }
+  
+  .your-mentees-tab .text-wrapper-5 {
+    position: absolute;
+    width: 180px;
+    top: 16px;
+    left: 60px;
+    font-family: "Georama-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .your-mentees-tab .div-wrapper {
+    position: absolute;
+    width: 248px;
+    height: 67px;
+    top: 276px;
+    left: 1219px;
+    background-color: #ffffff;
+    border-radius: 55px;
+    border: 3.5px solid;
+    border-color: #659fd9;
+  }
+  
+  .your-mentees-tab .line-2 {
+    position: absolute;
+    width: 1237px;
+    height: 1px;
+    top: 217px;
+    left: 215px;
+    object-fit: cover;
+  }
+  
+  .your-mentees-tab .line-3 {
+    position: absolute;
+    width: 1237px;
+    height: 1px;
+    top: 405px;
+    left: 215px;
+    object-fit: cover;
+  }
+  
