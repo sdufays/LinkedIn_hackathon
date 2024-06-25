@@ -1,8 +1,6 @@
 import React from 'react';
 import './App.css';
-import MyComponent from './main-mentors';
-import myMentors from './main-mentors';
-
+import MyComponent from './MyComponent';
 
 function App() {
   return (
