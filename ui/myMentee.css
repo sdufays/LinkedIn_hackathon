@@ -1,3 +1,4 @@
+
 /* Global Styles */
 body, html {
   margin: 0;
@@ -106,7 +107,8 @@ body, html {
   padding: 6px 16px;
 }
 
-.message-btn:hover {
+.message-btn:hover
+{
   background-color: #0a66c2;
   border-width: px;
 }
