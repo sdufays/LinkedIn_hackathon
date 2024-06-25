@@ -1,4 +1,3 @@
-// mentee.js
 const fs = require('fs');
 const path = require('path');
 
@@ -42,7 +41,7 @@ function calculateMatchPercentage(mentor, mentee) {
     // Check time preference
     if (mentee.time_preference) {
         maxScore += 1;
-        if (mentor.time_preference === mentee.time_preference) {
+        if (mentor.time_preference.toLowerCase() === mentee.time_preference.toLowerCase()) {
             score += 1;
         }
     }
@@ -57,10 +56,19 @@ function calculateMatchPercentage(mentor, mentee) {
     // Check underrepresented groups
     if (mentee.underrepresented_group) {
         maxScore += 1;
-        if (mentor.underrepresented_group && mentor.underrepresented_group.includes(mentee.underrepresented_group)) {
+        if (mentor.underrepresented_group.toLowerCase() === mentee.underrepresented_group.toLowerCase()) {
             score += 1;
         }
     }
+
+    // console.log(`Match calculation for mentee ${mentee.name} and mentor ${mentor.name}:`);
+    // console.log(`Degree: ${score}/${maxScore} (Mentor: ${mentor.degrees}, Mentee: ${mentee.degree})`);
+    // console.log(`Industry: ${score}/${maxScore} (Mentor: ${mentor.industries}, Mentee: ${mentee.industry})`);
+    // console.log(`School: ${score}/${maxScore} (Mentor: ${mentor.school_names}, Mentee: ${mentee.school})`);
+    // console.log(`Location: ${score}/${maxScore} (Mentor: ${mentor.current_location}, Mentee: ${mentee.location})`);
+    // console.log(`Time Preference: ${score}/${maxScore} (Mentor: ${mentor.time_preference}, Mentee: ${mentee.time_preference})`);
+    // console.log(`Skills: ${score}/${maxScore} (Mentor: ${mentor.skills}, Mentee: ${mentee.skills})`);
+    // console.log(`Underrepresented Group: ${score}/${maxScore} (Mentor: ${mentor.underrepresented_group}, Mentee: ${mentee.underrepresented_group})`);
 
     return maxScore > 0 ? Math.round((score / maxScore) * 100) : 0;
 }
