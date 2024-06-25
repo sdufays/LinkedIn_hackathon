@@ -68,6 +68,8 @@ def clean_data(user_data, jobs_data):
 # Clean the data
 cleaned_data = clean_data(user_data, jobs_data)
 
+cleaned_data = cleaned_data.drop_duplicates(subset=['name'], keep='first')
+
 # Save cleaned data to JSON file
 cleaned_data.to_json('project_data.json', orient='records', indent=4)
 
